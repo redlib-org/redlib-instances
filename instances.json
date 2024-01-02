@@ -1,37 +1,6 @@
 {
-  "updated": "2024-01-01",
+  "updated": "2024-01-02",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://reddit.invak.id",
-      "country": "BG",
-      "version": "v0.30.2"
-    },
-    {
-      "url": "https://reddit.simo.sh",
-      "country": "BG",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.strongthany.cc",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.northboot.xyz",
-      "country": "DE",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
-      "version": "v0.30.1"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -43,66 +12,29 @@
       "version": "v0.30.2"
     },
     {
-      "url": "https://libreddit.oxymagnesium.com",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://reddit.utsav2.dev",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.freedit.eu",
-      "country": "US",
-      "version": "v0.30.2",
-      "cloudflare": true
-    },
-    {
-      "url": "https://lr.artemislena.eu",
-      "country": "DE",
-      "version": "v0.30.1"
-    },
-    {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.30.2"
     },
     {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
+      "url": "https://reddit.invak.id",
+      "country": "BG",
+      "version": "v0.30.2"
     },
     {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.22.9"
+      "version": "v0.30.2"
     },
     {
-      "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-      "country": "CA",
-      "version": "v0.25.0"
-    },
-    {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "url": "https://reddit.idevicehacked.com",
       "country": "US",
-      "version": "v0.22.9"
+      "version": "v0.30.2"
     },
     {
-      "onion": "http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.25.0"
-    },
-    {
-      "onion": "http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-      "country": "CA",
-      "version": "v0.25.0"
-    },
-    {
-      "i2p": "http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p",
-      "country": "CA",
-      "version": "v0.25.0"
+      "url": "https://redlib.matthew.science",
+      "country": "US",
+      "version": "v0.30.2"
     }
   ]
 }
