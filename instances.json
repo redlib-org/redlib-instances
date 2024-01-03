@@ -1,5 +1,5 @@
 {
-  "updated": "2024-01-02",
+  "updated": "2024-01-03",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -9,7 +9,7 @@
     {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
@@ -19,7 +19,7 @@
     {
       "url": "https://reddit.invak.id",
       "country": "BG",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -33,6 +33,16 @@
     },
     {
       "url": "https://redlib.matthew.science",
+      "country": "US",
+      "version": "v0.30.2"
+    },
+    {
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
       "country": "US",
       "version": "v0.30.2"
     }
