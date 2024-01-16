@@ -1,10 +1,10 @@
 {
-  "updated": "2024-01-03",
+  "updated": "2024-01-16",
   "instances": [
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -14,7 +14,7 @@
     {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.invak.id",
@@ -24,17 +24,12 @@
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.idevicehacked.com",
       "country": "US",
-      "version": "v0.30.2"
-    },
-    {
-      "url": "https://redlib.matthew.science",
-      "country": "US",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.freedit.eu",
@@ -42,9 +37,9 @@
       "version": "v0.31.0"
     },
     {
-      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+      "url": "https://redlib.tux.pizza",
       "country": "US",
-      "version": "v0.30.2"
+      "version": "v0.31.0"
     }
   ]
 }
