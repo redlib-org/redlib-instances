@@ -58,9 +58,9 @@ DESCRIPTION
       This proxy typically listens at 127.0.0.1:4444.
 
     * This script will attempt to connect to instances in the CSV that are on
-      Tor, provided that it can (it will check to see if Tor is running and the
-      availability of the torsocks program). If you want to disable connections
-      to these onion sites, provide the -T option.
+      Tor, provided that it can (it will check to see if Tor is running). 
+      If you want to disable connections to these onion sites, provide the 
+      -T option.
 
     * This script will return a non-zero status code when at least one instance
       could not be reached. If you want this script always to return 0 even
@@ -124,7 +124,8 @@ ENVIRONMENT
 
 `generate-instances-json.sh` requires **curl** in order to make HTTP(S) requests and **jq** to process and format JSON.
 
-**tor** and **torsocks** are required for processing onion sites, but the script will skip instances on Tor if neither tor is running nor torsocks is available. An option exists to import onion sites from an existing JSON file should you wish not to use tor.
+**tor** is required for processing onion sites, but the script will skip instances on Tor if tor is not running. 
+An option exists to import onion sites from an existing JSON file should you wish not to use tor.
 
 ### Expected CSV format
 
@@ -170,7 +171,7 @@ This script will attempt to connect to instances that are onion or I2P sites.
 
 ##### Tor
 
-To make sure it can connect to onion sites, the script will see if Tor is running and if torsocks is installed. If neither condition is met, the script will not attempt to connect to Redlib onion sites and will skip them. The exit code will still be 0, assuming that the WWW Redlib sites were processed without error.
+To make sure it can connect to onion sites, the script will see if Tor is running. If it is not, the script will not attempt to connect to Redlib onion sites and will skip them. The exit code will still be 0, assuming that the WWW Redlib sites were processed without error.
 
 ##### I2P
 

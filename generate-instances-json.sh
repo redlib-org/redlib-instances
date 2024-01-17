@@ -61,10 +61,10 @@ check_program ()
 
 # can_tor
 #
-# Returns true if tor is running and torsocks is installed.
+# Returns true if tor is running
 can_tor ()
 {
-    check_tor && check_program torsocks
+    check_tor
 }
 
 # can_i2p
@@ -273,7 +273,7 @@ canonicalize_url ()
 #
 # Makes an HTTP(S) GET equest to the provided URL with curl. The response is
 # written to standard out. get will determine if the URL is an onion site, and,
-# if so, it wrap the curl call with torsocks. If the URL is a I2P site, and
+# if so, it wrap the curl call with socks proxy. If the URL is a I2P site, and
 # I2P_HTTP_PROXY is non-empty, tell curl to use that as the proxy.
 #
 # The return value is the curl return value, or:
@@ -345,8 +345,8 @@ get ()
     #  - Increase curl max-time to 60 seconds.
     if [[ "${zone,,}" == "onion" ]]
     then
-        # Don't bother if tor isn't running or we don't have torsocks. But if
-        # both are available, make sure we warp curl with torsocks.
+        # Don't bother if tor isn't running. But if both are available, 
+        # make sure we warp curl with socks.
         if [[ "${no_tor}" == "y" ]]
         then
             return 104
@@ -358,7 +358,7 @@ get ()
         fi
 
         timeout=60
-        curl_cmd=(torsocks curl)
+        curl_cmd=(curl --proxy socks5h://localhost:9050)
     elif [[ "${zone,,}" == "i2p" ]]
     then
         if [[ "${no_i2p}" == "y" ]]
@@ -552,9 +552,9 @@ DESCRIPTION
       This proxy typically listens at 127.0.0.1:4444.
 
     * This script will attempt to connect to instances in the CSV that are on
-      Tor, provided that it can (it will check to see if Tor is running and the
-      availability of the torsocks program). If you want to disable connections
-      to these onion sites, provide the -T option.
+      Tor, provided that it can (it will check to see if Tor is running).
+      If you want to disable connections to these onion sites, provide the
+      -T option.
 
     * This script will return a non-zero status code when at least one instance
       could not be reached. If you want this script always to return 0 even
@@ -745,7 +745,7 @@ main ()
     then
         if [[ "${do_tor}" == "y" ]]
         then
-            echo >&2 "WARNING: Either the tor service is not running or torsocks is not available. Either way, onion sites will not be processed."
+            echo >&2 "WARNING: The tor service is not running. Onion sites will not be processed."
         fi
         do_tor="n"
         get_opts+=("-T")
