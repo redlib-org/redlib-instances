@@ -1,11 +1,14 @@
 name: Update json and markdown
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
       - "instances.txt"
     branches:
-      - master
+      - main
   workflow_dispatch: # run on manual trigger
   schedule: [{cron: "0 0 */2 * *"}] # Run every other day
 
