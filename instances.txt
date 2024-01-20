@@ -1,3 +1,5 @@
+https://safereddit.com,US,false,"SFW only"
+https://eu.safereddit.com,DE,false,"SFW only"
 https://l.opnxng.com,SG,false,""
 https://libreddit.projectsegfau.lt,LU,false,""
 https://libreddit.bus-hit.me,CA,false,""

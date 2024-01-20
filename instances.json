@@ -1,6 +1,18 @@
 {
-  "updated": "2024-01-19",
+  "updated": "2024-01-20",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
