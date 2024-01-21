@@ -11,7 +11,6 @@
 |https://redlib.matthew.science|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.31.0|🇦🇺 AU|✅||
-|https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.vimmer.dev|WWW|v0.31.0|🇵🇱 PL||SFW only|
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion|Tor|v0.31.0|🇺🇸 US|||
