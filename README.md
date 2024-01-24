@@ -2,6 +2,10 @@
 
 This repository maintains a list of [Redlib](https://github.com/redlib-org/redlib) instances in JSON format, providing the URL, location, and Redlib version for each instance. A helper script exists in this repository to generate the list in JSON form.
 
+# Status page
+
+You can access the [status page for the instances here.](https://stats.uptimerobot.com/mpmqAs1G2Q)
+
 # Contents
 
 This repo consists of four files:
