@@ -1,5 +1,5 @@
 {
-  "updated": "2024-01-23",
+  "updated": "2024-01-24",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -60,6 +60,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.31.0",
@@ -68,6 +73,11 @@
     {
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://rl.bloat.cat",
+      "country": "false",
       "version": "v0.31.0"
     },
     {
