@@ -1,5 +1,5 @@
 {
-  "updated": "2024-01-27",
+  "updated": "2024-01-28",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -71,18 +71,8 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "false",
-      "version": "v0.31.0"
-    },
-    {
-      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-      "country": "US",
-      "version": "v0.31.0"
-    },
-    {
-      "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-      "country": "FR",
+      "url": "https://redlib.xn--hackerhhle-kcb.org/",
+      "country": "DE",
       "version": "v0.31.0"
     }
   ]
