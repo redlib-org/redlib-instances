@@ -1,5 +1,5 @@
 {
-  "updated": "2024-01-29",
+  "updated": "2024-01-31",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -16,11 +16,6 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.31.0"
     },
     {
@@ -73,6 +68,11 @@
     {
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://rl.bloat.cat",
+      "country": "false",
       "version": "v0.31.0"
     },
     {
