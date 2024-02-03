@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-01",
+  "updated": "2024-02-03",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -16,6 +16,11 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.31.0"
     },
     {
