@@ -1,12 +1,6 @@
 {
-  "updated": "2024-02-03",
+  "updated": "2024-02-05",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://eu.safereddit.com",
       "country": "DE",
