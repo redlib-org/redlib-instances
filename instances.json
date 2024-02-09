@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-07",
+  "updated": "2024-02-09",
   "instances": [
     {
       "url": "https://eu.safereddit.com",
@@ -28,12 +28,12 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://reddit.idevicehacked.com",
+      "url": "https://redlib.catsarch.com",
       "country": "US",
       "version": "v0.31.0"
     },
     {
-      "url": "https://redlib.matthew.science",
+      "url": "https://reddit.idevicehacked.com",
       "country": "US",
       "version": "v0.31.0"
     },
@@ -49,11 +49,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.31.0",
@@ -67,11 +62,6 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.xn--hackerhhle-kcb.org/",
-      "country": "DE",
       "version": "v0.31.0"
     },
     {
