@@ -1,6 +1,12 @@
 {
-  "updated": "2024-02-09",
+  "updated": "2024-02-11",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://eu.safereddit.com",
       "country": "DE",
@@ -49,6 +55,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.31.0",
@@ -62,6 +73,11 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.xn--hackerhhle-kcb.org/",
+      "country": "DE",
       "version": "v0.31.0"
     },
     {
