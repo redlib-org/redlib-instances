@@ -17,6 +17,7 @@
 |https://redlib.xn--hackerhhle-kcb.org/|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
 |https://redlib.r4fo.com|WWW|v0.31.0|🇩🇪 DE|✅||
-|http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion|Tor|v0.30.1|🇩🇪 DE|✅||
+|https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
 |http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion|Tor|v0.31.0|🇺🇸 US|||
 |http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion|Tor|v0.31.0|🇫🇷 FR|||
+|http://reddit.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion/|Tor|v0.31.0|🇩🇪 DE|||
