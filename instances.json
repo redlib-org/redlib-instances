@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-13",
+  "updated": "2024-02-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -40,6 +40,11 @@
     },
     {
       "url": "https://reddit.idevicehacked.com",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.matthew.science",
       "country": "US",
       "version": "v0.31.0"
     },
