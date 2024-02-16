@@ -97,6 +97,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.31.0"
+    },
+    {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
       "country": "DE",
       "version": "v0.30.1",
