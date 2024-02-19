@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-17",
+  "updated": "2024-02-19",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -47,6 +47,11 @@
       "country": "AU",
       "version": "v0.31.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.vimmer.dev",
