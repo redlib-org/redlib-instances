@@ -1,12 +1,6 @@
 {
-  "updated": "2024-02-19",
+  "updated": "2024-02-21",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -34,6 +28,11 @@
     },
     {
       "url": "https://reddit.idevicehacked.com",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.matthew.science",
       "country": "US",
       "version": "v0.31.0"
     },
@@ -66,11 +65,6 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.xn--hackerhhle-kcb.org/",
-      "country": "DE",
       "version": "v0.31.0"
     },
     {
