@@ -1,6 +1,12 @@
 {
-  "updated": "2024-02-21",
+  "updated": "2024-02-23",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -77,11 +83,6 @@
       "country": "DE",
       "version": "v0.31.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.31.0"
     },
     {
       "url": "https://red.ngn.tf",
