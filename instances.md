@@ -13,6 +13,7 @@
 |https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.vimmer.dev|WWW|v0.31.0|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
+|https://lr.n8pjl.ca|WWW|git|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
 |https://redlib.r4fo.com|WWW|v0.31.0|🇩🇪 DE|✅||
