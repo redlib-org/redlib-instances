@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-23",
+  "updated": "2024-02-24",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -87,6 +87,11 @@
     {
       "url": "https://red.ngn.tf",
       "country": "TR",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
       "version": "v0.31.0"
     },
     {
