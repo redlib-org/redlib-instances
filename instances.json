@@ -1,5 +1,5 @@
 {
-  "updated": "2024-02-23",
+  "updated": "2024-02-25",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -74,6 +74,11 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://redlib.xn--hackerhhle-kcb.org/",
+      "country": "DE",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.nohost.network",
       "country": "MX",
       "version": "v0.31.0"
@@ -83,6 +88,11 @@
       "country": "DE",
       "version": "v0.31.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.31.0"
     },
     {
       "url": "https://red.ngn.tf",

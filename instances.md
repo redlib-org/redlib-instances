@@ -14,8 +14,10 @@
 |https://redlib.vimmer.dev|WWW|v0.31.0|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
+|https://redlib.xn--hackerhhle-kcb.org/|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
 |https://redlib.r4fo.com|WWW|v0.31.0|🇩🇪 DE|✅||
+|https://redlib.ducks.party|WWW|v0.31.0|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.31.0|🇹🇷 TR|||
 |http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion|Tor|v0.30.1|🇩🇪 DE|✅||
 |http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion|Tor|v0.31.0|🇺🇸 US|||
