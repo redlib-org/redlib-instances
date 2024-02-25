@@ -4,6 +4,7 @@
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
+|https://libreddit.eu.org/|WWW|v0.31.0|🇩🇪 DE|||
 |https://reddit.invak.id|WWW|v0.31.0|🇧🇬 BG|||
 |https://redlib.catsarch.com|WWW|v0.31.0|🇺🇸 US|||
 |https://reddit.idevicehacked.com|WWW|v0.31.0|🇺🇸 US|||
