@@ -45,13 +45,7 @@
     {
       "url": "https://redlib.freedit.eu",
       "country": "US",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.perennialte.ch",
-      "country": "AU",
-      "version": "v0.31.0",
-      "cloudflare": true
+      "version": "v0.31.2"
     },
     {
       "url": "https://redlib.tux.pizza",
@@ -89,20 +83,10 @@
       "version": "v0.31.0"
     },
     {
-      "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
-      "country": "DE",
-      "version": "v0.30.1",
+      "url": "https://redlib.dnfetheus.xyz",
+      "country": "BR",
+      "version": "v0.31.0",
       "cloudflare": true
-    },
-    {
-      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-      "country": "US",
-      "version": "v0.31.0"
-    },
-    {
-      "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-      "country": "FR",
-      "version": "v0.31.0"
     }
   ]
 }
