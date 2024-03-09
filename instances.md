@@ -9,7 +9,6 @@
 |https://reddit.idevicehacked.com|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.31.2|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.31.0|🇦🇺 AU|✅||
-|https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.vimmer.dev|WWW|v0.31.0|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
