@@ -1,5 +1,5 @@
 {
-  "updated": "2024-03-09",
+  "updated": "2024-03-11",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -30,7 +30,7 @@
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.31.0"
+      "version": "v0.31.2"
     },
     {
       "url": "https://reddit.idevicehacked.com",
@@ -47,6 +47,11 @@
       "country": "AU",
       "version": "v0.31.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.vimmer.dev",
