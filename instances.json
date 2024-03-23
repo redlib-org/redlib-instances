@@ -2,6 +2,12 @@
   "updated": "2024-03-23",
   "instances": [
     {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
+    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.31.0"
@@ -115,6 +121,11 @@
       "country": "US",
       "version": "v0.31.0",
       "description": "contact noc at darrennathanael.com"
+    },
+    {
+      "url": "https://redlib.kittywi.re",
+      "country": "FR",
+      "version": "v0.31.0"
     },
     {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
