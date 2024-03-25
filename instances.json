@@ -8,6 +8,11 @@
       "description": "SFW only"
     },
     {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
       "version": "v0.31.0"
@@ -66,6 +71,11 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
       "version": "v0.31.0"
     },
     {
