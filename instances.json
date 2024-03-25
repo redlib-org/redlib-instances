@@ -1,16 +1,11 @@
 {
-  "updated": "2024-03-23",
+  "updated": "2024-03-25",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.31.0",
       "description": "SFW only"
-    },
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -71,11 +66,6 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
       "version": "v0.31.0"
     },
     {
