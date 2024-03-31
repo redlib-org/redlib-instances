@@ -1,5 +1,5 @@
 {
-  "updated": "2024-03-29",
+  "updated": "2024-03-31",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -74,6 +74,11 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://reddit.owo.si",
       "country": "DE",
       "version": "v0.31.0"
@@ -93,12 +98,6 @@
       "country": "DE",
       "version": "v0.31.0",
       "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.dnfetheus.xyz",
-      "country": "BR",
-      "version": "v0.31.0",
-      "cloudflare": true
     },
     {
       "url": "https://redlib.cow.rip",
