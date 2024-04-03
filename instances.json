@@ -1,12 +1,6 @@
 {
-  "updated": "2024-04-01",
+  "updated": "2024-04-03",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -102,6 +96,12 @@
     {
       "url": "https://redlib.dnfetheus.xyz",
       "country": "BR",
+      "version": "v0.31.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.cow.rip",
+      "country": "IN",
       "version": "v0.31.0",
       "cloudflare": true
     },
