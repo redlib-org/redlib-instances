@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-07",
+  "updated": "2024-04-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -67,16 +67,6 @@
       "url": "https://lr.n8pjl.ca",
       "country": "CA",
       "version": "v0.31.2"
-    },
-    {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
-      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.owo.si",
