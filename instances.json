@@ -1,11 +1,16 @@
 {
-  "updated": "2024-04-11",
+  "updated": "2024-04-12",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.31.0",
       "description": "SFW only"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -84,10 +89,21 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://red.ngn.tf",
+      "country": "TR",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.31.0",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.dnfetheus.xyz",
+      "country": "BR",
+      "version": "v0.31.0",
+      "cloudflare": true
     },
     {
       "url": "https://redlib.cow.rip",
@@ -114,6 +130,11 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
       "version": "v0.31.0"
     },
     {
