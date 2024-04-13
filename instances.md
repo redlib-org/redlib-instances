@@ -2,7 +2,7 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.31.0|🇺🇸 US||SFW only|
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
-|https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
+|https://libreddit.projectsegfau.lt|WWW|v0.31.0| 🌐 GeoDNS (🇩🇪 DE / 🇮🇳 IN / 🇺🇸 US)|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://reddit.invak.id|WWW|v0.31.0|🇧🇬 BG|||
 |https://redlib.catsarch.com|WWW|v0.31.2|🇺🇸 US|||
