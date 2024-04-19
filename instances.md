@@ -1,5 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
+|https://safereddit.com|WWW|v0.31.0|🇺🇸 US||SFW only|
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
@@ -18,7 +19,6 @@
 |https://red.ngn.tf|WWW|v0.31.0|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.31.0|🇩🇪 DE||Be crime do gay|
 |https://redlib.dnfetheus.xyz|WWW|v0.31.0|🇧🇷 BR|✅||
-|https://redlib.cow.rip|WWW|v0.31.0|🇮🇳 IN|✅||
 |https://libreddit.eu.org|WWW|v0.31.0|🇩🇪 DE|||
 |https://r.darrennathanael.com|WWW|v0.31.0|🇺🇸 US||contact noc at darrennathanael.com|
 |https://redlib.kittywi.re|WWW|v0.31.0|🇫🇷 FR|||
