@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-21",
+  "updated": "2024-04-23",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -36,6 +36,11 @@
       "url": "https://reddit.idevicehacked.com",
       "country": "US",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
+      "version": "v0.30.2"
     },
     {
       "url": "https://redlib.perennialte.ch",
@@ -119,11 +124,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
       "version": "v0.31.0"
     },
     {
