@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-27",
+  "updated": "2024-04-28",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -24,11 +24,6 @@
     },
     {
       "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.31.2"
-    },
-    {
-      "url": "https://reddit.idevicehacked.com",
       "country": "US",
       "version": "v0.31.2"
     },
@@ -106,12 +101,6 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "contact noc at darrennathanael.com"
-    },
-    {
       "url": "https://redlib.kittywi.re",
       "country": "FR",
       "version": "v0.31.0"
@@ -120,6 +109,12 @@
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://reddit.cryptocalcu.top",
+      "country": "DE",
+      "version": "v0.31.0",
+      "cloudflare": true
     },
     {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
@@ -147,6 +142,12 @@
       "country": "DE",
       "version": "v0.31.0",
       "description": "Onion of red.artemislena.eu"
+    },
+    {
+      "onion": "http://reddit.uqhlcmp5d73yoarvgqevosv3iio62fuhdztdbw62l2qkzewolu4dvqyd.onion",
+      "country": "DE",
+      "version": "v0.31.0",
+      "description": "Onion of reddit.cryptocalcu.top"
     }
   ]
 }
