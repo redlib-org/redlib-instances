@@ -28,6 +28,11 @@
       "version": "v0.31.2"
     },
     {
+      "url": "https://reddit.idevicehacked.com",
+      "country": "US",
+      "version": "v0.31.2"
+    },
+    {
       "url": "https://redlib.freedit.eu",
       "country": "US",
       "version": "v0.31.3"
@@ -99,6 +104,12 @@
       "url": "https://libreddit.eu.org",
       "country": "DE",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://r.darrennathanael.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.kittywi.re",
