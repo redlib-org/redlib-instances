@@ -20,7 +20,6 @@
 |https://red.artemislena.eu|WWW|v0.31.0|🇩🇪 DE||Be crime do gay|
 |https://redlib.dnfetheus.xyz|WWW|v0.31.0|🇧🇷 BR|✅||
 |https://libreddit.eu.org|WWW|v0.31.0|🇩🇪 DE|||
-|https://r.darrennathanael.com|WWW|v0.31.0|🇺🇸 US||contact noc at darrennathanael.com|
 |https://redlib.kittywi.re|WWW|v0.31.0|🇫🇷 FR|||
 |https://redlib.privacyredirect.com|WWW|v0.31.0|🇫🇮 FI|||
 |http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion|Tor|v0.31.0|🇩🇪 DE|✅||

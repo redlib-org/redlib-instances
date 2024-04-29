@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-27",
+  "updated": "2024-04-29",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -104,12 +104,6 @@
       "url": "https://libreddit.eu.org",
       "country": "DE",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://r.darrennathanael.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.kittywi.re",
