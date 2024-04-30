@@ -152,12 +152,6 @@
       "country": "DE",
       "version": "v0.31.0",
       "description": "Onion of red.artemislena.eu"
-    },
-    {
-      "onion": "http://reddit.uqhlcmp5d73yoarvgqevosv3iio62fuhdztdbw62l2qkzewolu4dvqyd.onion",
-      "country": "DE",
-      "version": "v0.31.0",
-      "description": "Onion of reddit.cryptocalcu.top"
     }
   ]
 }
