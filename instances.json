@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-03",
+  "updated": "2024-05-05",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -33,6 +33,11 @@
       "version": "v0.31.2"
     },
     {
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
+      "version": "v0.31.3"
+    },
+    {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
       "version": "v0.31.0",
@@ -52,11 +57,6 @@
       "url": "https://lr.n8pjl.ca",
       "country": "CA",
       "version": "v0.31.2"
-    },
-    {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.nohost.network",
