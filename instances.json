@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-09",
+  "updated": "2024-05-10",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -127,31 +127,9 @@
       "version": "v0.31.0"
     },
     {
-      "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
-      "country": "DE",
-      "version": "v0.31.0",
-      "cloudflare": true
-    },
-    {
-      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+      "url": "https://redlib.nirn.quest",
       "country": "US",
-      "version": "v0.31.2"
-    },
-    {
-      "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-      "country": "FR",
       "version": "v0.31.0"
-    },
-    {
-      "onion": "http://reddit.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion/",
-      "country": "DE",
-      "version": "v0.31.0"
-    },
-    {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.31.0",
-      "description": "Onion of red.artemislena.eu"
     }
   ]
 }
