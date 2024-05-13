@@ -14,7 +14,6 @@
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
-|https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.ducks.party|WWW|v0.31.0|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.31.0|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.31.0|🇩🇪 DE||Be crime do gay|

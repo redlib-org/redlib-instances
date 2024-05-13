@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-11",
+  "updated": "2024-05-13",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -71,11 +71,6 @@
     {
       "url": "https://redlib.nohost.network",
       "country": "MX",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
       "version": "v0.31.0"
     },
     {
