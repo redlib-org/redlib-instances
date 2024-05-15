@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-13",
+  "updated": "2024-05-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -54,11 +54,6 @@
       "version": "v0.31.2"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://lr.n8pjl.ca",
       "country": "CA",
       "version": "v0.31.2"
@@ -71,6 +66,11 @@
     {
       "url": "https://redlib.nohost.network",
       "country": "MX",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://reddit.owo.si",
+      "country": "DE",
       "version": "v0.31.0"
     },
     {
