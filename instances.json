@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-15",
+  "updated": "2024-05-17",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -44,11 +44,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.31.2"
@@ -76,11 +71,6 @@
     {
       "url": "https://redlib.ducks.party",
       "country": "NL",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
       "version": "v0.31.0"
     },
     {
