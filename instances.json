@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-17",
+  "updated": "2024-05-19",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -44,19 +44,24 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.31.2"
     },
     {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://lr.n8pjl.ca",
       "country": "CA",
       "version": "v0.31.2"
-    },
-    {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.nohost.network",
@@ -74,6 +79,11 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://red.ngn.tf",
+      "country": "TR",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.31.0",
@@ -84,11 +94,6 @@
       "country": "BR",
       "version": "v0.31.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.31.0"
     },
     {
       "url": "https://r.darrennathanael.com",
