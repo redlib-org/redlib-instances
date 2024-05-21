@@ -12,6 +12,7 @@
 |https://redlib.vimmer.dev|WWW|v0.31.2|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
+|https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
 |https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.ducks.party|WWW|v0.31.0|🇳🇱 NL|||
