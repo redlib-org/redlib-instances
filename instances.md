@@ -1,7 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://l.opnxng.com|WWW|v0.31.2|🇸🇬 SG|||
-|https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://redlib.catsarch.com|WWW|v0.31.2|🇺🇸 US|||
 |https://reddit.idevicehacked.com|WWW|v0.31.2|🇺🇸 US|||
@@ -13,6 +12,7 @@
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
+|https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.ducks.party|WWW|v0.31.0|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.31.0|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.31.0|🇩🇪 DE||Be crime do gay|
