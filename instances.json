@@ -149,6 +149,11 @@
       "description": "I don't like reddit."
     },
     {
+      "url": "https://redlib.nezumi.party",
+      "country": "IT",
+      "version": "v0.31.0"
+    },
+    {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
       "country": "DE",
       "version": "v0.31.0",
