@@ -25,7 +25,7 @@
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.31.2"
+      "version": "v0.33.0"
     },
     {
       "url": "https://reddit.idevicehacked.com",
@@ -122,6 +122,33 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://reddit.nerdvpn.de",
+      "country": "UA",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://lr.ggtyler.dev",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.privacy.deals",
+      "country": "true",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.31.0",
+      "description": "I don't like reddit."
+    },
+    {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
       "country": "DE",
       "version": "v0.31.0",
@@ -130,7 +157,7 @@
     {
       "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
       "country": "US",
-      "version": "v0.31.2"
+      "version": "v0.33.0"
     },
     {
       "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
@@ -147,6 +174,12 @@
       "country": "DE",
       "version": "v0.31.0",
       "description": "Onion of red.artemislena.eu"
+    },
+    {
+      "onion": "http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+      "country": "UA",
+      "version": "v0.31.0",
+      "description": "Onion of reddit.nerdvpn.de"
     }
   ]
 }
