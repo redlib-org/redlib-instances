@@ -10,7 +10,6 @@
 |https://redlib.perennialte.ch|WWW|v0.31.0|🇦🇺 AU|✅||
 |https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.vimmer.dev|WWW|v0.31.2|🇵🇱 PL|||
-|https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
@@ -23,6 +22,7 @@
 |https://redlib.kittywi.re|WWW|v0.31.0|🇫🇷 FR|||
 |https://redlib.privacyredirect.com|WWW|v0.31.0|🇫🇮 FI|||
 |https://redlib.seasi.dev|WWW|v0.31.0|🇸🇬 SG|||
+|https://redlib.incogniweb.net|WWW|v0.31.0|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.31.0|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.baczek.me|WWW|v0.31.0|🇵🇱 PL|||
