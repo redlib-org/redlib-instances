@@ -54,11 +54,6 @@
       "version": "v0.31.2"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://lr.n8pjl.ca",
       "country": "CA",
       "version": "v0.31.2"
@@ -119,6 +114,11 @@
     {
       "url": "https://redlib.seasi.dev",
       "country": "SG",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.incogniweb.net",
+      "country": "US",
       "version": "v0.31.0"
     },
     {
