@@ -1,31 +1,30 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://l.opnxng.com|WWW|v0.34.0|🇸🇬 SG|||
-|https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
+|https://libreddit.projectsegfau.lt|WWW|v0.34.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://redlib.catsarch.com|WWW|v0.34.0|🇺🇸 US|||
 |https://reddit.idevicehacked.com|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.34.0|🇦🇺 AU|✅||
 |https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
-|https://redlib.vimmer.dev|WWW|v0.31.2|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.31.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.31.0|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.31.0|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.34.0|🇹🇷 TR|||
-|https://red.artemislena.eu|WWW|v0.31.0|🇩🇪 DE||Be crime do gay|
+|https://red.artemislena.eu|WWW|v0.34.0|🇩🇪 DE||Be crime do gay|
 |https://r.darrennathanael.com|WWW|v0.31.0|🇺🇸 US||contact noc at darrennathanael.com|
 |https://redlib.kittywi.re|WWW|v0.31.0|🇫🇷 FR|||
-|https://redlib.privacyredirect.com|WWW|v0.31.0|🇫🇮 FI|||
+|https://redlib.privacyredirect.com|WWW|v0.34.0|🇫🇮 FI|||
+|https://redlib.seasi.dev|WWW|v0.34.0|🇸🇬 SG|||
 |https://redlib.incogniweb.net|WWW|v0.34.0|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.31.0|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.34.0|🇺🇸 US|||
-|https://redlib.baczek.me|WWW|v0.31.0|🇵🇱 PL|||
-|https://redlib.privacy.deals|WWW|v0.31.0|🇹🇷 true|||
 |https://redlib.nadeko.net|WWW|v0.31.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.nirn.quest|WWW|v0.31.0|🇺🇸 US|||
+|https://redlib.nezumi.party|WWW|v0.31.0|🇮🇹 IT|||
 |http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion|Tor|v0.31.0|🇩🇪 DE|✅||
 |http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion|Tor|v0.33.0|🇺🇸 US|||
 |http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion|Tor|v0.31.0|🇫🇷 FR|||
