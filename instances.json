@@ -1,6 +1,12 @@
 {
-  "updated": "2024-06-03",
+  "updated": "2024-06-05",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -55,17 +61,22 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://redlib.nohost.network",
       "country": "MX",
+      "version": "v0.34.0"
+    },
+    {
+      "url": "https://reddit.owo.si",
+      "country": "DE",
       "version": "v0.31.0"
     },
     {
       "url": "https://redlib.ducks.party",
       "country": "NL",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://red.ngn.tf",
@@ -81,7 +92,7 @@
     {
       "url": "https://r.darrennathanael.com",
       "country": "US",
-      "version": "v0.31.0",
+      "version": "v0.34.0",
       "description": "contact noc at darrennathanael.com"
     },
     {
@@ -107,13 +118,18 @@
     {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
-      "version": "v0.31.0",
+      "version": "v0.34.0",
       "description": "SFW only"
     },
     {
       "url": "https://lr.ggtyler.dev",
       "country": "US",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.nadeko.net",
@@ -124,7 +140,7 @@
     {
       "url": "https://redlib.nirn.quest",
       "country": "US",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://redlib.nezumi.party",
