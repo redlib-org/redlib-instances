@@ -1,6 +1,5 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://safereddit.com|WWW|v0.31.0|🇺🇸 US||SFW only|
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.34.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
@@ -12,7 +11,6 @@
 |https://redlib.vimmer.dev|WWW|v0.34.0|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
-|https://rl.bloat.cat|WWW|v0.34.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.34.0|🇲🇽 MX|||
 |https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
 |https://redlib.ducks.party|WWW|v0.34.0|🇳🇱 NL|||
@@ -25,7 +23,7 @@
 |https://redlib.incogniweb.net|WWW|v0.34.0|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.34.0|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.34.0|🇺🇸 US|||
-|https://redlib.nadeko.net|WWW|v0.31.0|🇨🇱 CL||I don't like reddit.|
+|https://redlib.privacy.deals|WWW|v0.34.0|🇹🇷 true|||
 |https://redlib.nirn.quest|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.nezumi.party|WWW|v0.31.0|🇮🇹 IT|||
 |http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion|Tor|v0.31.0|🇩🇪 DE|✅||
