@@ -1,10 +1,15 @@
 {
-  "updated": "2024-06-15",
+  "updated": "2024-06-17",
   "instances": [
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.34.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
@@ -46,6 +51,11 @@
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://lr.n8pjl.ca",
+      "country": "CA",
+      "version": "v0.31.2"
     },
     {
       "url": "https://rl.bloat.cat",

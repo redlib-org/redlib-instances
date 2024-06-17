@@ -1,6 +1,7 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
+|https://libreddit.projectsegfau.lt|WWW|v0.34.0|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://redlib.catsarch.com|WWW|v0.34.0|🇺🇸 US|||
 |https://reddit.idevicehacked.com|WWW|v0.34.0|🇺🇸 US|||
@@ -9,6 +10,7 @@
 |https://redlib.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |https://redlib.vimmer.dev|WWW|v0.34.0|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
+|https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.34.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.34.0|🇲🇽 MX|||
 |https://reddit.owo.si|WWW|v0.31.0|🇩🇪 DE|||
