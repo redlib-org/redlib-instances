@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-19",
+  "updated": "2024-06-21",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -89,12 +89,6 @@
       "description": "Be crime do gay"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "US",
-      "version": "v0.34.0",
-      "description": "contact noc at darrennathanael.com"
-    },
-    {
       "url": "https://redlib.kittywi.re",
       "country": "FR",
       "version": "v0.31.0"
@@ -131,20 +125,9 @@
       "version": "v0.34.0"
     },
     {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.34.0",
-      "description": "I don't like reddit."
-    },
-    {
       "url": "https://redlib.nirn.quest",
       "country": "US",
       "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.nezumi.party",
-      "country": "IT",
-      "version": "v0.31.0"
     },
     {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
