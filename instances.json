@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-21",
+  "updated": "2024-06-23",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -7,22 +7,12 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.34.0"
-    },
-    {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://reddit.idevicehacked.com",
       "country": "US",
       "version": "v0.34.0"
     },
@@ -38,19 +28,9 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
       "version": "v0.34.0"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.31.0"
     },
     {
       "url": "https://lr.n8pjl.ca",
@@ -66,11 +46,6 @@
       "url": "https://redlib.nohost.network",
       "country": "MX",
       "version": "v0.34.0"
-    },
-    {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.ducks.party",
@@ -92,16 +67,6 @@
       "url": "https://redlib.kittywi.re",
       "country": "FR",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
-      "version": "v0.34.0"
     },
     {
       "url": "https://redlib.incogniweb.net",
@@ -128,6 +93,11 @@
       "url": "https://redlib.nirn.quest",
       "country": "US",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://redlib.nezumi.party",
+      "country": "IT",
+      "version": "v0.31.0"
     },
     {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
