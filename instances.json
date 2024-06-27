@@ -1,18 +1,18 @@
 {
-  "updated": "2024-06-25",
+  "updated": "2024-06-27",
   "instances": [
     {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
+      "version": "v0.34.0"
+    },
+    {
       "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://reddit.idevicehacked.com",
-      "country": "US",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.freedit.eu",
       "country": "US",
       "version": "v0.34.0"
     },
@@ -28,45 +28,9 @@
       "version": "v0.34.0"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://lr.n8pjl.ca",
-      "country": "CA",
-      "version": "v0.31.2"
-    },
-    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.34.0",
-      "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.kittywi.re",
-      "country": "FR",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -85,10 +49,25 @@
       "description": "SFW only"
     },
     {
+      "url": "https://lr.ggtyler.dev",
+      "country": "US",
+      "version": "v0.34.0"
+    },
+    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.34.0",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.nirn.quest",
+      "country": "US",
+      "version": "v0.34.0"
+    },
+    {
+      "url": "https://redlib.nezumi.party",
+      "country": "IT",
+      "version": "v0.31.0"
     },
     {
       "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
