@@ -19,12 +19,12 @@
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.35.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.freedit.eu",
       "country": "US",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.perennialte.ch",
@@ -74,6 +74,11 @@
       "description": "Be crime do gay"
     },
     {
+      "url": "https://redlib.kittywi.re",
+      "country": "FR",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.35.0"
@@ -85,15 +90,14 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.34.0",
-      "description": "I don't like reddit."
-    },
-    {
       "url": "https://redlib.private.coffee",
       "country": "AT",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.31.0"
     },
     {
       "url": "https://rl.rootdo.com",
