@@ -6,18 +6,14 @@
 |https://redlib.catsarch.com|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.34.0|🇦🇺 AU|✅||
-|https://redlib.vimmer.dev|WWW|v0.34.0|🇵🇱 PL|||
-|https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
-|https://lr.n8pjl.ca|WWW|v0.31.2|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.34.0|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.34.0|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.34.0|🇳🇱 NL|||
-|https://red.ngn.tf|WWW|v0.34.0|🇹🇷 TR|||
-|https://red.artemislena.eu|WWW|v0.34.0|🇩🇪 DE||Be crime do gay|
-|https://redlib.kittywi.re|WWW|v0.31.0|🇫🇷 FR|||
-|https://redlib.privacyredirect.com|WWW|v0.34.0|🇫🇮 FI|||
+|https://red.artemislena.eu|WWW|v0.35.0|🇩🇪 DE||Be crime do gay|
+|https://redlib.privacyredirect.com|WWW|v0.35.0|🇫🇮 FI|||
 |https://redlib.incogniweb.net|WWW|v0.34.0|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.34.0|🇺🇦 UA||SFW only|
+|https://lr.ggtyler.dev|WWW|v0.34.0|🇺🇸 US|||
 |https://redlib.baczek.me|WWW|v0.31.0|🇵🇱 PL|||
 |https://redlib.nadeko.net|WWW|v0.34.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.private.coffee|WWW|v0.34.0|🇦🇹 AT|||
