@@ -27,6 +27,12 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.34.0",
+      "cloudflare": true
+    },
+    {
       "url": "https://redlib.tux.pizza",
       "country": "US",
       "version": "v0.35.1"
@@ -78,10 +84,20 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.incogniweb.net",
+      "country": "US",
+      "version": "v0.34.0"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.31.0"
     },
     {
       "url": "https://lr.quitaxd.online",
@@ -95,9 +111,19 @@
       "description": "I don't like reddit."
     },
     {
+      "url": "https://redlib.nezumi.party",
+      "country": "IT",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://redlib.private.coffee",
       "country": "AT",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.31.0"
     },
     {
       "url": "https://rl.rootdo.com",
