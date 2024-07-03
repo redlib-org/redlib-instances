@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-01",
+  "updated": "2024-07-03",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -38,9 +38,24 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.vimmer.dev",
+      "country": "PL",
+      "version": "v0.34.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://lr.n8pjl.ca",
+      "country": "CA",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.nohost.network",
@@ -55,18 +70,13 @@
     {
       "url": "https://red.ngn.tf",
       "country": "TR",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.35.1",
       "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.kittywi.re",
-      "country": "FR",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -92,17 +102,12 @@
     {
       "url": "https://lr.ggtyler.dev",
       "country": "US",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.baczek.me",
       "country": "PL",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://lr.quitaxd.online",
-      "country": "PL",
-      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.nadeko.net",
@@ -116,6 +121,11 @@
       "version": "v0.34.0"
     },
     {
+      "url": "https://redlib.frontendfriendly.xyz",
+      "country": "XX",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://rl.rootdo.com",
       "country": "DE",
       "version": "v0.35.1"
@@ -123,7 +133,7 @@
     {
       "url": "https://red.arancia.click",
       "country": "US",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.privacy.com.de",
