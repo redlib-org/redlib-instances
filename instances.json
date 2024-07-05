@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-03",
+  "updated": "2024-07-05",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -40,12 +40,12 @@
     {
       "url": "https://redlib.vimmer.dev",
       "country": "PL",
-      "version": "v0.34.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
-      "version": "v0.31.0"
+      "version": "v0.35.1"
     },
     {
       "url": "https://lr.n8pjl.ca",
@@ -105,15 +105,15 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.31.0"
-    },
-    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.34.0",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.nirn.quest",
+      "country": "US",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.private.coffee",

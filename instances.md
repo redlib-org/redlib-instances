@@ -7,8 +7,8 @@
 |https://redlib.freedit.eu|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.34.0|🇦🇺 AU|✅||
 |https://redlib.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
-|https://redlib.vimmer.dev|WWW|v0.34.0|🇵🇱 PL|||
-|https://libreddit.privacydev.net|WWW|v0.31.0|🇫🇷 FR|||
+|https://redlib.vimmer.dev|WWW|v0.35.1|🇵🇱 PL|||
+|https://libreddit.privacydev.net|WWW|v0.35.1|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.35.1|🇨🇦 CA|||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.35.1|🇲🇽 MX|||
@@ -20,8 +20,8 @@
 |https://redlib.incogniweb.net|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.35.1|🇺🇸 US|||
-|https://redlib.baczek.me|WWW|v0.31.0|🇵🇱 PL|||
 |https://redlib.nadeko.net|WWW|v0.34.0|🇨🇱 CL||I don't like reddit.|
+|https://redlib.nirn.quest|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.private.coffee|WWW|v0.34.0|🇦🇹 AT|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.35.1|🇽🇽 XX|||
 |https://rl.rootdo.com|WWW|v0.35.1|🇩🇪 DE|||
