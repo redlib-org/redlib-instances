@@ -15,14 +15,15 @@
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.35.1|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.35.1|🇩🇪 DE||Be crime do gay|
+|https://r.darrennathanael.com|WWW|v0.35.1|🇮🇩 ID||contact noc at darrennathanael.com|
 |https://redlib.privacyredirect.com|WWW|v0.35.1|🇫🇮 FI|||
 |https://redlib.seasi.dev|WWW|v0.35.1|🇸🇬 SG|||
 |https://redlib.incogniweb.net|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.35.1|🇺🇸 US|||
-|https://redlib.nadeko.net|WWW|v0.34.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.nirn.quest|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.private.coffee|WWW|v0.34.0|🇦🇹 AT|||
+|https://redlib.4o1x5.dev|WWW|v0.31.0|🇭🇺 HU|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.35.1|🇽🇽 XX|||
 |https://rl.rootdo.com|WWW|v0.35.1|🇩🇪 DE|||
 |https://red.arancia.click|WWW|v0.35.1|🇺🇸 US|||
