@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-05",
+  "updated": "2024-07-07",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -109,6 +109,17 @@
       "url": "https://lr.ggtyler.dev",
       "country": "US",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.34.0",
+      "description": "I don't like reddit."
     },
     {
       "url": "https://redlib.nirn.quest",
