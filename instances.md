@@ -25,7 +25,6 @@
 |https://redlib.nadeko.net|WWW|v0.34.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.nirn.quest|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.private.coffee|WWW|v0.34.0|🇦🇹 AT|||
-|https://redlib.4o1x5.dev|WWW|v0.31.0|🇭🇺 HU|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.35.1|🇽🇽 XX|||
 |https://rl.rootdo.com|WWW|v0.35.1|🇩🇪 DE|||
 |https://red.arancia.click|WWW|v0.35.1|🇺🇸 US|||
