@@ -1,6 +1,12 @@
 {
-  "updated": "2024-07-09",
+  "updated": "2024-07-11",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -79,12 +85,6 @@
       "description": "Be crime do gay"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "ID",
-      "version": "v0.35.1",
-      "description": "contact noc at darrennathanael.com"
-    },
-    {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.35.1"
@@ -114,12 +114,6 @@
       "url": "https://redlib.baczek.me",
       "country": "PL",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.34.0",
-      "description": "I don't like reddit."
     },
     {
       "url": "https://redlib.nirn.quest",
