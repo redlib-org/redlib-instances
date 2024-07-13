@@ -22,6 +22,7 @@
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
 |https://lr.ggtyler.dev|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.baczek.me|WWW|v0.31.0|🇵🇱 PL|||
+|https://redlib.nadeko.net|WWW|v0.34.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.nirn.quest|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.private.coffee|WWW|v0.34.0|🇦🇹 AT|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.35.1|🇽🇽 XX|||

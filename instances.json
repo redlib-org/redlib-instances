@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-11",
+  "updated": "2024-07-13",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -114,6 +114,12 @@
       "url": "https://redlib.baczek.me",
       "country": "PL",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.34.0",
+      "description": "I don't like reddit."
     },
     {
       "url": "https://redlib.nirn.quest",
