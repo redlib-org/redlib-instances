@@ -16,6 +16,7 @@
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
 |https://red.ngn.tf|WWW|v0.35.1|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.35.1|🇩🇪 DE||Be crime do gay|
+|https://r.darrennathanael.com|WWW|v0.35.1|🇮🇩 ID||contact noc at darrennathanael.com|
 |https://redlib.privacyredirect.com|WWW|v0.35.1|🇫🇮 FI|||
 |https://redlib.seasi.dev|WWW|v0.35.1|🇸🇬 SG|||
 |https://redlib.incogniweb.net|WWW|v0.35.1|🇺🇸 US|||

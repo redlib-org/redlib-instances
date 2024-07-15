@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-13",
+  "updated": "2024-07-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -83,6 +83,12 @@
       "country": "DE",
       "version": "v0.35.1",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
+      "version": "v0.35.1",
+      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.privacyredirect.com",
