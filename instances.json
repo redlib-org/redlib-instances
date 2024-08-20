@@ -1,6 +1,18 @@
 {
-  "updated": "2024-07-15",
+  "updated": "2024-08-20",
   "instances": [
+    {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.35.1",
+      "description": "🩷"
+    },
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -17,14 +29,10 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.freedit.eu",
-      "country": "US",
-      "version": "v0.35.1"
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.35.1",
+      "cloudflare": true
     },
     {
       "url": "https://redlib.tux.pizza",
@@ -57,6 +65,11 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://reddit.owo.si",
+      "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.ducks.party",
       "country": "NL",
       "version": "v0.35.1"
@@ -71,6 +84,12 @@
       "country": "DE",
       "version": "v0.35.1",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.cow.rip",
+      "country": "IN",
+      "version": "v0.35.1",
+      "cloudflare": true
     },
     {
       "url": "https://r.darrennathanael.com",
@@ -116,11 +135,6 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.nirn.quest",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.private.coffee",
       "country": "AT",
       "version": "v0.34.0"
@@ -128,11 +142,6 @@
     {
       "url": "https://redlib.frontendfriendly.xyz",
       "country": "XX",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://rl.rootdo.com",
-      "country": "DE",
       "version": "v0.35.1"
     },
     {
@@ -150,6 +159,39 @@
       "url": "https://redlib.privacy.com.de",
       "country": "DE",
       "version": "v0.35.1"
+    },
+    {
+      "onion": "http://redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
+      "country": "HR",
+      "version": "v0.35.1"
+    },
+    {
+      "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
+      "country": "DE",
+      "version": "v0.35.1",
+      "cloudflare": true
+    },
+    {
+      "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+      "country": "FR",
+      "version": "v0.35.1"
+    },
+    {
+      "onion": "http://reddit.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion",
+      "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+      "country": "DE",
+      "version": "v0.35.1",
+      "description": "Onion of red.artemislena.eu"
+    },
+    {
+      "onion": "http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+      "country": "UA",
+      "version": "v0.35.1",
+      "description": "Onion of reddit.nerdvpn.de"
     }
   ]
 }
