@@ -29,3 +29,4 @@
 |https://red.arancia.click|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.reallyaweso.me|WWW|v0.35.1|🇩🇪 DE||A reallyaweso.me redlib instance!|
 |https://redlib.privacy.com.de|WWW|v0.35.1|🇩🇪 DE|||
+|https://rl.blitzw.in|WWW|v0.35.1|🇩🇪 DE||hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in|
