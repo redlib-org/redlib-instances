@@ -150,6 +150,11 @@
       "url": "https://redlib.privacy.com.de",
       "country": "DE",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://rl.blitzw.in",
+      "country": "DE",
+      "version": "v0.35.1"
     }
   ]
 }
