@@ -6,6 +6,7 @@
 |https://redlib.catsarch.com|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
+|https://libreddit.eu.org|WWW|v0.35.1|🇩🇪 DE|||
 |https://redlib.vimmer.dev|WWW|v0.35.1|🇵🇱 PL|||
 |https://libreddit.privacydev.net|WWW|v0.35.1|🇫🇷 FR|||
 |https://lr.n8pjl.ca|WWW|v0.35.1|🇨🇦 CA|||
