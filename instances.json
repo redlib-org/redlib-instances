@@ -1,14 +1,15 @@
 {
-  "updated": "2024-07-15",
+  "updated": "2024-11-13",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -17,14 +18,10 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.freedit.eu",
-      "country": "US",
-      "version": "v0.35.1"
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.35.1",
+      "cloudflare": true
     },
     {
       "url": "https://redlib.tux.pizza",
@@ -32,18 +29,8 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.vimmer.dev",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://lr.n8pjl.ca",
-      "country": "CA",
       "version": "v0.35.1"
     },
     {
@@ -89,50 +76,14 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.incogniweb.net",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
     },
     {
-      "url": "https://lr.ggtyler.dev",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.34.0",
-      "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.nirn.quest",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.private.coffee",
       "country": "AT",
-      "version": "v0.34.0"
-    },
-    {
-      "url": "https://redlib.frontendfriendly.xyz",
-      "country": "XX",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://rl.rootdo.com",
-      "country": "DE",
       "version": "v0.35.1"
     },
     {
@@ -150,6 +101,12 @@
       "url": "https://redlib.privacy.com.de",
       "country": "DE",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.35.1",
+      "description": "Caution: +10% increased chance to contract Ligma"
     }
   ]
 }
