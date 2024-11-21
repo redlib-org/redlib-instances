@@ -1,11 +1,21 @@
 {
-  "updated": "2024-11-19",
+  "updated": "2024-11-21",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
       "version": "v0.35.1",
-      "description": "SFW only"
+      "cloudflare": true
+    },
+    {
+      "url": "https://rl.bloat.cat",
+      "country": "RO",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.nohost.network",
@@ -13,15 +23,47 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Be crime do gay"
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.privacy.com.de",
-      "country": "DE",
+      "url": "https://red.ngn.tf",
+      "country": "TR",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.nerdvpn.de",
+      "country": "UA",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.35.1",
+      "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.arancia.click",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
+      "version": "v0.35.1",
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
