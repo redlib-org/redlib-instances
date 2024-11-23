@@ -8,30 +8,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.artemislena.eu",
+      "url": "https://lr.ptr.moe",
       "country": "DE",
       "version": "v0.35.1",
-      "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.35.1"
+      "cloudflare": true
     },
     {
       "url": "https://redlib.nadeko.net",
