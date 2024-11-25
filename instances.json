@@ -1,6 +1,28 @@
 {
-  "updated": "2024-11-23",
+  "updated": "2024-11-25",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
@@ -13,6 +35,52 @@
       "version": "v0.35.1",
       "cloudflare": true
     },
+      "url": "https://rl.bloat.cat",
+      "country": "RO",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.ngn.tf",
+      "country": "TR",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.35.1",
+      "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.kittywi.re",
+      "country": "FR",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.nerdvpn.de",
+      "country": "UA",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
@@ -22,6 +90,11 @@
     {
       "url": "https://redlib.private.coffee",
       "country": "AT",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.arancia.click",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
