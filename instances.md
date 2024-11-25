@@ -5,6 +5,7 @@
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
+|https://lr.ptr.moe|WWW|v0.35.1|🇩🇪 DE|✅||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.35.1|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
