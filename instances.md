@@ -2,9 +2,11 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
 |https://eu.safereddit.com|WWW|v0.35.1|🇩🇪 DE||SFW only|
+|https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
+|https://redlib.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.35.1|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||

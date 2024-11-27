@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-25",
+  "updated": "2024-11-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -12,6 +12,11 @@
       "country": "DE",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -28,6 +33,11 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.35.1"
     },
     {
       "url": "https://rl.bloat.cat",
