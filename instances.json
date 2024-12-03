@@ -1,5 +1,5 @@
 {
-  "updated": "2024-12-01",
+  "updated": "2024-12-03",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -97,6 +97,11 @@
       "country": "CL",
       "version": "v0.35.1",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.35.1"
     },
     {
       "url": "https://red.arancia.click",
