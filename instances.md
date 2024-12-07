@@ -5,9 +5,9 @@
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
+|https://redlib.catsarch.com|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
-|https://redlib.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.35.1|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
@@ -18,6 +18,7 @@
 |https://redlib.seasi.dev|WWW|v0.35.1|🇸🇬 SG|||
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
 |https://redlib.nadeko.net|WWW|v0.35.1|🇨🇱 CL||I don't like reddit.|
+|https://redlib.private.coffee|WWW|v0.35.1|🇦🇹 AT|||
 |https://red.arancia.click|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.reallyaweso.me|WWW|v0.35.1|🇩🇪 DE||A reallyaweso.me redlib instance!|
 |https://redlib.privacy.com.de|WWW|v0.35.1|🇩🇪 DE|||
