@@ -8,6 +8,7 @@
 |https://redlib.catsarch.com|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
+|https://lr.ptr.moe|WWW|v0.35.1|🇩🇪 DE|✅||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.nohost.network|WWW|v0.35.1|🇲🇽 MX|||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
