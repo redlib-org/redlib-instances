@@ -1,6 +1,11 @@
 {
-  "updated": "2024-12-19",
+  "updated": "2024-12-21",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -12,16 +17,16 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.35.1",
+      "cloudflare": true
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.35.1",
       "description": "Be crime do gay"
-    },
-    {
-      "url": "https://reddit.nerdvpn.de",
-      "country": "UA",
-      "version": "v0.35.1",
-      "description": "SFW only"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
