@@ -6,7 +6,9 @@
 |https://redlib.catsarch.com|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.freedit.eu|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
+|https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
+|https://red.ngn.tf|WWW|v0.35.1|🇹🇷 TR|||
 |https://red.artemislena.eu|WWW|v0.35.1|🇩🇪 DE||Be crime do gay|
 |https://redlib.kittywi.re|WWW|v0.35.1|🇫🇷 FR|||
 |https://redlib.privacyredirect.com|WWW|v0.35.1|🇫🇮 FI|||
