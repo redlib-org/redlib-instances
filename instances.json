@@ -1,5 +1,5 @@
 {
-  "updated": "2024-12-27",
+  "updated": "2024-12-29",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,6 +10,11 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -37,6 +42,12 @@
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.35.1",
+      "cloudflare": true
     },
     {
       "url": "https://redlib.ducks.party",
