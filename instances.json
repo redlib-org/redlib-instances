@@ -1,5 +1,5 @@
 {
-  "updated": "2024-12-31",
+  "updated": "2025-01-01",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -40,6 +40,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.35.1"
@@ -76,6 +81,11 @@
       "country": "CL",
       "version": "v0.35.1",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.35.1"
     },
     {
       "url": "https://red.arancia.click",
