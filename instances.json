@@ -1,24 +1,24 @@
 {
-  "updated": "2025-01-07",
+  "updated": "2025-01-09",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.perennialte.ch",
-      "country": "AU",
-      "version": "v0.35.1",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
+      "url": "https://redlib.catsarch.com",
       "country": "US",
       "version": "v0.35.1"
     },
@@ -34,6 +34,16 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.ngn.tf",
+      "country": "TR",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.35.1",
@@ -42,6 +52,27 @@
     {
       "url": "https://redlib.kittywi.re",
       "country": "FR",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.nerdvpn.de",
+      "country": "UA",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.arancia.click",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
