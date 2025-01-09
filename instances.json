@@ -2,6 +2,13 @@
   "updated": "2025-01-09",
   "instances": [
     {
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.35.1",
+      "cloudflare": true,
+      "description": "orangelib"
+    },
+    {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.35.1",
@@ -23,19 +30,13 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.35.1",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
+      "url": "https://rl.bloat.cat",
+      "country": "RO",
       "version": "v0.35.1"
     },
     {
@@ -66,20 +67,10 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.arancia.click",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
       "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
+      "description": "I don't like reddit."
     }
   ]
 }
