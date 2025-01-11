@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-09",
+  "updated": "2025-01-11",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -44,12 +44,6 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Be crime do gay"
-    },
-    {
       "url": "https://redlib.kittywi.re",
       "country": "FR",
       "version": "v0.35.1"
@@ -66,14 +60,10 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.arancia.click",
-      "country": "US",
-      "version": "v0.35.1"
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.35.1",
+      "description": "I don't like reddit."
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
