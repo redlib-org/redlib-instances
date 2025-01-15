@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-13",
+  "updated": "2025-01-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,11 +10,6 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -32,11 +27,6 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.35.1"
     },
     {
       "url": "https://rl.bloat.cat",
@@ -82,17 +72,7 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://rl.rootdo.com",
-      "country": "DE",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.privacy.com.de",
       "country": "DE",
       "version": "v0.35.1"
     },
