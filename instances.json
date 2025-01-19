@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-17",
+  "updated": "2025-01-19",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,8 +8,8 @@
       "description": "SFW only"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -56,6 +56,12 @@
       "description": "Be crime do gay"
     },
     {
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
+      "version": "v0.35.1",
+      "description": "contact noc at darrennathanael.com"
+    },
+    {
       "url": "https://redlib.kittywi.re",
       "country": "FR",
       "version": "v0.35.1"
@@ -70,6 +76,11 @@
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.35.1"
     },
     {
       "url": "https://rl.rootdo.com",
