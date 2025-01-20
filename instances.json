@@ -1,15 +1,15 @@
 {
-  "updated": "2025-01-19",
+  "updated": "2025-01-20",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
       "version": "v0.35.1",
-      "description": "SFW only"
+      "description": "orangelib"
     },
     {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
       "version": "v0.35.1"
     },
     {
@@ -23,6 +23,11 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
       "version": "v0.35.1",
@@ -32,12 +37,6 @@
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.35.1",
-      "cloudflare": true
     },
     {
       "url": "https://redlib.ducks.party",
@@ -54,6 +53,11 @@
       "country": "DE",
       "version": "v0.35.1",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
+      "version": "v0.35.1"
     },
     {
       "url": "https://r.darrennathanael.com",
@@ -78,20 +82,27 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.private.coffee",
-      "country": "AT",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://rl.rootdo.com",
       "country": "DE",
       "version": "v0.35.1"
+    },
+    {
+      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "Onion of redlib.catsarch.com"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
       "country": "DE",
       "version": "v0.35.1",
       "description": "Onion of red.artemislena.eu"
+    },
+    {
+      "onion": "http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+      "country": "UA",
+      "version": "v0.35.1",
+      "description": "Onion of reddit.nerdvpn.de"
     }
   ]
 }
