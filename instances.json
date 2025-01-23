@@ -1,14 +1,9 @@
 {
-  "updated": "2025-01-21",
+  "updated": "2025-01-23",
   "instances": [
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.bus-hit.me",
-      "country": "CA",
       "version": "v0.35.1"
     },
     {
@@ -21,11 +16,6 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.r4fo.com",
@@ -70,6 +60,11 @@
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://rl.rootdo.com",
+      "country": "DE",
+      "version": "v0.35.1"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
