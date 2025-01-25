@@ -1,10 +1,11 @@
 {
-  "updated": "2025-01-23",
+  "updated": "2025-01-25",
   "instances": [
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.35.1"
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -16,6 +17,11 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://rl.bloat.cat",
+      "country": "RO",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.r4fo.com",
@@ -60,6 +66,12 @@
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.35.1",
+      "description": "I don't like reddit."
     },
     {
       "url": "https://rl.rootdo.com",
