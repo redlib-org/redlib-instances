@@ -1,11 +1,16 @@
 {
-  "updated": "2025-01-25",
+  "updated": "2025-01-27",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -75,6 +80,16 @@
     },
     {
       "url": "https://rl.rootdo.com",
+      "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://red.arancia.click",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.privacy.com.de",
       "country": "DE",
       "version": "v0.35.1"
     },
