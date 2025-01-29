@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-27",
+  "updated": "2025-01-29",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -35,11 +35,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.35.1"
@@ -71,22 +66,6 @@
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.35.1",
-      "description": "I don't like reddit."
-    },
-    {
-      "url": "https://rl.rootdo.com",
-      "country": "DE",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.arancia.click",
-      "country": "US",
-      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.privacy.com.de",
