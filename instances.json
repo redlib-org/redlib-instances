@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-29",
+  "updated": "2025-01-31",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -35,6 +35,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.35.1"
@@ -66,11 +71,6 @@
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
-    },
-    {
-      "url": "https://redlib.privacy.com.de",
-      "country": "DE",
-      "version": "v0.35.1"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
