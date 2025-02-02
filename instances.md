@@ -3,6 +3,7 @@
 |https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://redlib.perennialte.ch|WWW|v0.35.1|🇦🇺 AU|✅||
+|https://lr.ptr.moe|WWW|v0.35.1|🇩🇪 DE|✅||
 |https://rl.bloat.cat|WWW|v0.35.1|🇷🇴 RO|||
 |https://redlib.r4fo.com|WWW|v0.35.1|🇩🇪 DE|✅||
 |https://redlib.ducks.party|WWW|v0.35.1|🇳🇱 NL|||
