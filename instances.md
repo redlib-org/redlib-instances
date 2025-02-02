@@ -12,4 +12,5 @@
 |https://redlib.kittywi.re|WWW|v0.35.1|🇫🇷 FR|||
 |https://redlib.privacyredirect.com|WWW|v0.35.1|🇫🇮 FI|||
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
+|https://redlib.gitro.xyz|WWW|v0.35.1|🇩🇪 DE|||
 |http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.35.1|🇩🇪 DE||Onion of red.artemislena.eu|

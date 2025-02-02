@@ -68,6 +68,11 @@
       "description": "SFW only"
     },
     {
+        "url": "https://redlib.gitro.xyz",
+        "country": "DE",
+        "version": "v0.35.1"
+      },
+    {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
       "country": "DE",
       "version": "v0.35.1",
