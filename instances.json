@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-05",
+  "updated": "2025-02-07",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,11 +10,6 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -82,11 +77,6 @@
       "country": "CL",
       "version": "v0.35.1",
       "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.private.coffee",
-      "country": "AT",
-      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.privacy.com.de",
