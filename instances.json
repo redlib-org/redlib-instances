@@ -1,6 +1,11 @@
 {
-  "updated": "2025-02-09",
+  "updated": "2025-02-11",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -40,9 +45,10 @@
       "description": "Be crime do gay"
     },
     {
-      "url": "https://redlib.kittywi.re",
-      "country": "FR",
-      "version": "v0.35.1"
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
+      "version": "v0.35.1",
+      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.privacyredirect.com",
