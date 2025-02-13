@@ -1,6 +1,12 @@
 {
-  "updated": "2025-02-11",
+  "updated": "2025-02-13",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -49,11 +55,6 @@
       "country": "ID",
       "version": "v0.35.1",
       "description": "contact noc at darrennathanael.com"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.35.1"
     },
     {
       "url": "https://reddit.nerdvpn.de",
