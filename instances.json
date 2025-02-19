@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-17",
+  "updated": "2025-02-19",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -24,6 +24,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.35.1"
@@ -33,11 +38,6 @@
       "country": "DE",
       "version": "v0.35.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.35.1"
     },
     {
       "url": "https://red.ngn.tf",
@@ -62,6 +62,11 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.35.1",
@@ -72,11 +77,6 @@
       "country": "CL",
       "version": "v0.35.1",
       "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.privacy.com.de",
-      "country": "DE",
-      "version": "v0.35.1"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
