@@ -94,6 +94,13 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://red.floppa.cloud",
+      "country": "US",
+      "version": "v0.35.1",
+      "cloudflare": true,
+      "description": "Very unstable !!"
+    },
+    {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
       "country": "DE",
       "version": "v0.35.1",
