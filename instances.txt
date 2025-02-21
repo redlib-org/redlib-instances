@@ -53,3 +53,4 @@ http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion,DE,fal
 http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion,UA,false,"Onion of reddit.nerdvpn.de"
 http://redlib.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion,XX,false,"Onion of redlib.frontendfriendly.xyz"
 http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p,US,false,"I2P of redlib.catsarch.com"
+https://red.floppa.cloud,US,true,"Very unstable !!"
