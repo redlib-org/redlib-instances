@@ -17,4 +17,5 @@
 |https://reddit.nerdvpn.de|WWW|v0.35.1|🇺🇦 UA||SFW only|
 |https://redlib.nadeko.net|WWW|v0.35.1|🇨🇱 CL||I don't like reddit.|
 |https://redlib.privacy.com.de|WWW|v0.35.1|🇩🇪 DE|||
+|https://red.floppa.cloud|WWW|v0.35.1|🇺🇸 US|✅|Very unstable !!|
 |http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.35.1|🇩🇪 DE||Onion of red.artemislena.eu|
