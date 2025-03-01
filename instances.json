@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-27",
+  "updated": "2025-03-01",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,8 +13,8 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -22,6 +22,11 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.privacydev.net",
@@ -61,6 +66,11 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.seasi.dev",
       "country": "SG",
       "version": "v0.35.1"
@@ -88,15 +98,14 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://red.arancia.click",
-      "country": "US",
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "A reallyaweso.me redlib instance!"
+      "url": "https://red.arancia.click",
+      "country": "US",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.privacy.com.de",
