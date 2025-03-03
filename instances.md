@@ -23,4 +23,5 @@
 |https://red.arancia.click|WWW|v0.35.1|🇺🇸 US|||
 |https://redlib.reallyaweso.me|WWW|v0.35.1|🇩🇪 DE||A reallyaweso.me redlib instance!|
 |https://redlib.privacy.com.de|WWW|v0.35.1|🇩🇪 DE|||
+|https://red.floppa.cloud|WWW|v0.35.1|🇺🇸 US|✅|Very unstable !!|
 |http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.35.1|🇩🇪 DE||Onion of red.artemislena.eu|
