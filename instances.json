@@ -1,5 +1,5 @@
 {
-  "updated": "2025-03-03",
+  "updated": "2025-03-05",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -29,35 +29,14 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
       "version": "v0.35.1"
     },
     {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Be crime do gay"
     },
     {
       "url": "https://r.darrennathanael.com",
@@ -73,11 +52,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
       "version": "v0.35.1"
     },
     {
@@ -100,11 +74,6 @@
     {
       "url": "https://redlib.private.coffee",
       "country": "AT",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
       "version": "v0.35.1"
     },
     {
