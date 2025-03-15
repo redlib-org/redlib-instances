@@ -1,6 +1,17 @@
 {
-  "updated": "2025-03-13",
+  "updated": "2025-03-15",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -49,11 +60,6 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.35.1",
@@ -71,8 +77,8 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.private.coffee",
-      "country": "AT",
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.35.1"
     },
     {
