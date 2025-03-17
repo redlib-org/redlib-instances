@@ -1,16 +1,11 @@
 {
-  "updated": "2025-03-15",
+  "updated": "2025-03-17",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.35.1",
       "description": "SFW only"
-    },
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -24,6 +19,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://libreddit.privacydev.net",
       "country": "FR",
       "version": "v0.35.1"
@@ -31,6 +31,11 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
       "version": "v0.35.1"
     },
     {
@@ -60,21 +65,26 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.35.1",
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.35.1",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.4o1x5.dev",
@@ -85,6 +95,12 @@
       "url": "https://red.arancia.click",
       "country": "US",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
+      "version": "v0.35.1",
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://redlib.privacy.com.de",
