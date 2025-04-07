@@ -1,5 +1,5 @@
 {
-  "updated": "2025-04-05",
+  "updated": "2025-04-07",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -24,16 +24,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.36.0"
@@ -42,6 +32,12 @@
       "url": "https://redlib.nohost.network",
       "country": "MX",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
       "url": "https://redlib.ducks.party",
@@ -65,10 +61,9 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "ID",
-      "version": "v0.36.0",
-      "description": "contact noc at darrennathanael.com"
+      "url": "https://redlib.kittywi.re",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -87,6 +82,11 @@
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
@@ -96,17 +96,6 @@
       "url": "https://redlib.private.coffee",
       "country": "AT",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://redlib.privacy.com.de",
