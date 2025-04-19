@@ -1,12 +1,6 @@
 {
-  "updated": "2025-04-17",
+  "updated": "2025-04-19",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -50,11 +44,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.36.0"
@@ -64,6 +53,11 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "url": "https://r.darrennathanael.com",
@@ -77,21 +71,26 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.36.0",
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
