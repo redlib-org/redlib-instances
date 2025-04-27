@@ -1,5 +1,5 @@
 {
-  "updated": "2025-04-25",
+  "updated": "2025-04-27",
   "instances": [
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -76,16 +76,31 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.36.0",
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
