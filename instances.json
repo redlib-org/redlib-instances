@@ -1,11 +1,16 @@
 {
-  "updated": "2025-04-29",
+  "updated": "2025-05-01",
   "instances": [
     {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
-      "version": "v0.35.1",
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.36.0",
       "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -88,11 +93,6 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
@@ -107,12 +107,6 @@
       "url": "https://redlib.4o1x5.dev",
       "country": "HU",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://redlib.privacy.com.de",
