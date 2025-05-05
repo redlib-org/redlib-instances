@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-03",
+  "updated": "2025-05-05",
   "instances": [
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -16,6 +16,11 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.privacydev.net",
@@ -68,6 +73,11 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.seasi.dev",
+      "country": "SG",
       "version": "v0.36.0"
     },
     {
