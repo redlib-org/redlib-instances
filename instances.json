@@ -1,6 +1,12 @@
 {
-  "updated": "2025-05-05",
+  "updated": "2025-05-07",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
@@ -76,11 +82,6 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.36.0",
@@ -106,6 +107,12 @@
       "url": "https://redlib.4o1x5.dev",
       "country": "HU",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
