@@ -1,11 +1,10 @@
 {
-  "updated": "2025-05-13",
+  "updated": "2025-05-15",
   "instances": [
     {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "SFW only"
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.catsarch.com",
@@ -78,15 +77,15 @@
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.private.coffee",
-      "country": "AT",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
