@@ -1,11 +1,6 @@
 {
-  "updated": "2025-05-15",
+  "updated": "2025-05-17",
   "instances": [
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -34,11 +29,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.ducks.party",
       "country": "NL",
       "version": "v0.36.0"
@@ -55,10 +45,9 @@
       "description": "Be crime do gay"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "ID",
-      "version": "v0.36.0",
-      "description": "contact noc at darrennathanael.com"
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.kittywi.re",
@@ -86,6 +75,11 @@
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
