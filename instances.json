@@ -2,12 +2,6 @@
   "updated": "2025-05-27",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
       "version": "v0.36.0"
@@ -61,9 +55,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.kittywi.re",
-      "country": "FR",
-      "version": "v0.36.0"
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
+      "version": "v0.36.0",
+      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.privacyredirect.com",
