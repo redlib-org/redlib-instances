@@ -20,7 +20,7 @@
 # FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License along with
-# this program. If not, see <https://www.gnu.org/licenses/>. 
+# this program. If not, see <https://www.gnu.org/licenses/>.
 
 set -o pipefail
 
@@ -117,7 +117,7 @@ read_csv_row ()
     local opt=
     local OPTIND
     local OPTARG
-    
+
     local -i i=0
     local -i quote=0
     local -i esc=0
@@ -154,7 +154,7 @@ read_csv_row ()
     for (( i = 0; i < len; i++ ))
     do
         char="${row:${i}:1}"
-       
+
         # "Handle" escapes. Really, it just means writing the escape verbatim
         # into the string. Yes, that includes ". Because this is ultimately
         # going into JSON, and making this a fully-featured CSV reader would
@@ -167,7 +167,7 @@ read_csv_row ()
             # Escape handled. Move on to next character.
             continue
         fi
-        
+
         # \ triggers escape.
         # shellcheck disable=SC1003
         if [[ "${char}" == '\' ]]
@@ -247,7 +247,7 @@ canonicalize_url ()
         return 1
     fi
     url="${1}"
-    
+
     # Convert URL to lowercase.
     url="${url,,}"
 
@@ -256,7 +256,7 @@ canonicalize_url ()
     then
         return 2
     fi
-    
+
     # Strip leading /, but only if the path is /.
     if [[ "${url#*://*/}" =~ ^/*$ ]]
     then
@@ -292,7 +292,7 @@ get ()
     local opt=
     local OPTIND
     local OPTARG
-   
+
     local no_tor=n
     local no_i2p=n
     local url=
@@ -345,7 +345,7 @@ get ()
     #  - Increase curl max-time to 60 seconds.
     if [[ "${zone,,}" == "onion" ]]
     then
-        # Don't bother if tor isn't running. But if both are available, 
+        # Don't bother if tor isn't running. But if both are available,
         # make sure we warp curl with socks.
         if [[ "${no_tor}" == "y" ]]
         then
@@ -424,11 +424,11 @@ create_instance_entry ()
     local url_type="url"
     local -i rc=0
     local -a get_opts=()
-    
+
     local opt=
     local OPTIND
     local OPTARG
-    
+
     while getopts "IT" opt
     do
         case "${opt}" in
@@ -438,7 +438,7 @@ create_instance_entry ()
         esac
     done
     shift $((OPTIND-1))
-    
+
     local url="${1}"
     local country="${2}"
     local description="${4}"
@@ -716,7 +716,7 @@ main ()
             echo >&2 "For more information, run: ${BASH_SOURCE[0]} -h"
             return 1
         fi
-        
+
         # Set do_tor <- n so that we don't attempt to make tor connections.
         do_tor=n
 
@@ -728,14 +728,18 @@ main ()
         # (a mapfile would not ideal here since a pipe is required, inducing a
         # subshell, meaning nothing will actually get added to
         # imported_nonwww)
-        IFS=$'\n' imported_nonwww=($(jq -Mcer '.instances[] | select(.onion or .i2p)' "${import_nonwww_from_file}"))
-        rc=$?
-
-        if [[ ${rc} -ne 0 ]]
-        then
-            echo >&2 "Failed to read onion instances from existing JSON file."
-            return 1
+        if grep -q ".onion" "${import_nonwww_from_file}"  || grep -q ".i2p" "${import_nonwww_from_file}" ; then
+          IFS=$'\n' imported_nonwww=($(jq -Mcer '.instances[] | select(.onion or .i2p)' "${import_nonwww_from_file}"))
+          rc=$?
+        else
+          rc=0
         fi
+
+          if [[ ${rc} -ne 0 ]]
+          then
+              echo >&2 "Failed to read onion instances from existing JSON file."
+              return 1
+          fi
     fi
 
     # Check to see if we have tor. If we don't, then we will have to import
@@ -776,7 +780,7 @@ main ()
             return 1
         fi
     fi
-   
+
     # Read in the CSV.
     if [[ "${input_file}" == "/dev/stdin" ]]
     then
@@ -808,11 +812,11 @@ main ()
             echo >&2 "Script will now terminate."
             return 2
         fi
-       
+
         # Print friendly message to log while processing row.
         url="${values[0]}"
         echo -n >&2 "${url}: "
-        
+
         instance_entry="$(IFS=$'\n' create_instance_entry "${get_opts[@]}" "${values[@]}")"
         rc=$?
 
@@ -827,7 +831,7 @@ main ()
             echo "SKIPPED"
         else
             echo "FAILED"
-            
+
             if [[ "${failfast}" == "y" ]]
             then
                 return 1
