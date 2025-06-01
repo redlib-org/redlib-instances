@@ -1,11 +1,6 @@
 {
-  "updated": "2025-05-31",
+  "updated": "2025-06-01",
   "instances": [
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -16,6 +11,11 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://rl.bloat.cat",
@@ -29,16 +29,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://red.ngn.tf",
       "country": "TR",
       "version": "v0.36.0"
@@ -50,13 +40,13 @@
       "description": "Be crime do gay"
     },
     {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
       "version": "v0.36.0"
     },
     {
@@ -66,20 +56,25 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
     },
     {
+      "url": "https://redlib.private.coffee",
+      "country": "AT",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://redlib.4o1x5.dev",
       "country": "HU",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.privacy.com.de",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
