@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-05",
+  "updated": "2025-06-07",
   "instances": [
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -62,11 +62,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.seasi.dev",
-      "country": "SG",
       "version": "v0.36.0"
     },
     {
