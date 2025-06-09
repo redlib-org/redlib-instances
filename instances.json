@@ -1,11 +1,6 @@
 {
-  "updated": "2025-06-07",
+  "updated": "2025-06-09",
   "instances": [
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -16,11 +11,6 @@
       "country": "AU",
       "version": "v0.35.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
     },
     {
       "url": "https://libreddit.privacydev.net",
@@ -37,11 +27,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.ducks.party",
