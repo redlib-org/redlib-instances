@@ -2,18 +2,12 @@
   "updated": "2025-06-15",
   "instances": [
     {
-      "url": "https://safereddit.com",
+      "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.catsarch.com",
+      "url": "https://redlib.freedit.eu",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -29,15 +23,19 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -57,15 +55,15 @@
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://redlib.nadeko.net",
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.private.coffee",
-      "country": "AT",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
@@ -73,10 +71,11 @@
       "version": "v0.35.1"
     },
     {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
+      "url": "https://redlib.scanash.xyz",
+      "country": "US",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "A Redlib instance hosted entirely on a Chromebook!"
     }
   ]
 }
