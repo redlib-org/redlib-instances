@@ -1,8 +1,25 @@
 {
-  "updated": "2025-06-25",
+  "updated": "2025-06-26",
   "instances": [
     {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
+    {
       "url": "https://redlib.catsarch.com",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.35.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -12,10 +29,69 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://reddit.nerdvpn.de",
       "country": "UA",
       "version": "v0.36.0",
       "description": "SFW only"
+    },
+    {
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.36.0",
+      "description": "I don't like reddit."
+    },
+    {
+      "url": "https://libreddit.diffraction.dev",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://rl.blitzw.in",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
+    },
+    {
+      "url": "https://lr.ptr.moe",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.privadency.com",
+      "country": "DE",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.minihoot.site",
+      "country": "AU",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "i love you (this instance is protected by anubis)"
+    },
+    {
+      "url": "https://redlib.scanash.xyz",
+      "country": "US",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "A Redlib instance hosted entirely on a Chromebook!"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
