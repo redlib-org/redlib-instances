@@ -1,6 +1,12 @@
 {
-  "updated": "2025-07-01",
+  "updated": "2025-07-03",
   "instances": [
+    {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -13,25 +19,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.r4fo.com",
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -45,10 +36,14 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
-      "version": "v0.36.0",
-      "description": "🩷"
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.diffraction.dev",
@@ -56,15 +51,16 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://rl.blitzw.in",
-      "country": "DE",
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
       "version": "v0.36.0",
-      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
-      "url": "https://redlib.privadency.com",
+      "url": "https://lr.ptr.moe",
       "country": "DE",
-      "version": "v0.36.0"
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
