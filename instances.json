@@ -2,8 +2,14 @@
   "updated": "2025-07-03",
   "instances": [
     {
-      "url": "https://eu.safereddit.com",
+      "url": "https://redlib.hbubli.cc",
       "country": "DE",
+      "version": "v0.36.0",
+      "description": "redlib instance by hbubli.cc"
+    },
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -13,16 +19,9 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.perennialte.ch",
-      "country": "AU",
-      "version": "v0.35.1",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "url": "https://red.ngn.tf",
+      "country": "TR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -41,9 +40,10 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.35.1"
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://libreddit.diffraction.dev",
@@ -51,22 +51,29 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://rl.blitzw.in",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
     },
     {
-      "url": "https://lr.ptr.moe",
-      "country": "DE",
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.36.0",
+      "description": "orangelib"
+    },
+    {
+      "url": "https://redlib.scanash.xyz",
+      "country": "US",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "A Redlib instance hosted entirely on a Chromebook!"
+    },
+    {
+      "url": "https://redlib.kareem.one",
+      "country": "ID",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
     }
   ]
 }
