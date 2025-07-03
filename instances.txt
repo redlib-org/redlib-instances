@@ -1,3 +1,4 @@
+https://redlib.hbubli.cc,DE,false,"redlib instance by hbubli.cc"
 https://safereddit.com,US,false,"SFW only"
 https://eu.safereddit.com,DE,false,"SFW only"
 https://l.opnxng.com,SG,false,""
