@@ -19,25 +19,13 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.perennialte.ch",
-      "country": "AU",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
+      "url": "https://redlib.freedit.eu",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
@@ -63,9 +51,10 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://rl.blitzw.in",
@@ -74,10 +63,10 @@
       "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://lr.ptr.moe",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "cloudflare": true
     },
     {
       "url": "https://redlib.privadency.com",
@@ -92,10 +81,40 @@
       "description": "i love you (this instance is protected by anubis)"
     },
     {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+      "onion": "http://redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.thebunny.zone"
+    },
+    {
+      "onion": "http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
       "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.catsarch.com"
+    },
+    {
+      "onion": "http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+      "country": "UA",
+      "version": "v0.36.0",
+      "description": "Onion of reddit.nerdvpn.de"
+    },
+    {
+      "i2p": "http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "I2P of redlib.catsarch.com"
+    },
+    {
+      "i2p": "http://4dy6x4f3xhrsvtqbrp3l4acmmvxtcry4pliez7crndtquj3l7u4q.b32.i2p",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "i2p instance build from main branch"
     }
   ]
 }
