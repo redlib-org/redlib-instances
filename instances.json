@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-19",
+  "updated": "2025-07-21",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -25,26 +25,9 @@
       "cloudflare": true
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -52,20 +35,15 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.nerdvpn.de",
-      "country": "UA",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
       "url": "https://redlib.4o1x5.dev",
       "country": "HU",
       "version": "v0.35.1"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://rl.blitzw.in",
@@ -83,13 +61,6 @@
       "url": "https://redlib.privadency.com",
       "country": "DE",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.minihoot.site",
-      "country": "AU",
-      "version": "v0.36.0",
-      "cloudflare": true,
-      "description": "i love you (this instance is protected by anubis)"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
