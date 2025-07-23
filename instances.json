@@ -2,7 +2,24 @@
   "updated": "2025-07-23",
   "instances": [
     {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
+    {
       "url": "https://redlib.catsarch.com",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.freedit.eu",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -18,15 +35,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
       "version": "v0.36.0",
-      "description": "Be crime do gay"
+      "description": "contact noc at darrennathanael.com"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -40,9 +52,20 @@
       "description": "SFW only"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://rl.blitzw.in",
@@ -51,15 +74,16 @@
       "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://lr.ptr.moe",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "cloudflare": true
     },
     {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.36.0",
+      "description": "orangelib"
     },
     {
       "url": "https://redlib.minihoot.site",
@@ -69,10 +93,39 @@
       "description": "i love you (this instance is protected by anubis)"
     },
     {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
+      "url": "https://redlib.kareem.one",
+      "country": "ID",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.linuxenby.is",
+      "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
+      "onion": "http://redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.thebunny.zone"
+    },
+    {
+      "onion": "http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.catsarch.com"
+    },
+    {
+      "onion": "http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+      "country": "UA",
+      "version": "v0.36.0",
+      "description": "Onion of reddit.nerdvpn.de"
+    },
+    {
+      "onion": "http://redlib.s3agyzjznitshmuousvbxg7246hokooypkmncycbfroih542egnwkhad.onion",
+      "country": "FI",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.linuxenby.is"
     }
   ]
 }
