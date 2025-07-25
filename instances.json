@@ -1,6 +1,12 @@
 {
-  "updated": "2025-07-23",
+  "updated": "2025-07-25",
   "instances": [
+    {
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -13,20 +19,9 @@
       "cloudflare": true
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -40,21 +35,21 @@
       "description": "SFW only"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.35.1"
     },
     {
-      "url": "https://rl.blitzw.in",
-      "country": "DE",
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
       "version": "v0.36.0",
-      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+      "description": "🩷"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "description": "orangelib"
     },
     {
       "url": "https://redlib.privadency.com",
