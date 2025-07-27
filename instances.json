@@ -1,12 +1,6 @@
 {
-  "updated": "2025-07-25",
+  "updated": "2025-07-27",
   "instances": [
-    {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -24,6 +18,17 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://r.darrennathanael.com",
+      "country": "ID",
+      "version": "v0.36.0",
+      "description": "contact noc at darrennathanael.com"
+    },
+    {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.36.0"
@@ -35,15 +40,20 @@
       "description": "SFW only"
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
       "version": "v0.35.1"
     },
     {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
+      "url": "https://reddit.adminforge.de",
+      "country": "false",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://rl.blitzw.in",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "🩷"
+      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
     },
     {
       "url": "https://redlib.orangenet.cc",
