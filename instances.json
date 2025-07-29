@@ -2,13 +2,29 @@
   "updated": "2025-07-29",
   "instances": [
     {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
+    {
       "url": "https://eu.safereddit.com",
       "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.nornic.de",
+      "country": "DE",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://redlib.catsarch.com",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.freedit.eu",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -26,6 +42,11 @@
     {
       "url": "https://rl.bloat.cat",
       "country": "RO",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://reddit.owo.si",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
@@ -52,9 +73,19 @@
       "description": "SFW only"
     },
     {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://redlib.4o1x5.dev",
       "country": "HU",
       "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.adminforge.de",
+      "country": "false",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.thebunny.zone",
@@ -93,10 +124,10 @@
       "description": "i love you (this instance is protected by anubis)"
     },
     {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
+      "url": "https://redlib.kareem.one",
+      "country": "ID",
+      "version": "v0.36.0",
+      "cloudflare": true
     }
   ]
 }
