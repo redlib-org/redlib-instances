@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-07",
+  "updated": "2025-08-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -19,15 +19,20 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://rl.bloat.cat",
@@ -56,16 +61,16 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
-      "version": "v0.36.0",
-      "description": "🩷"
-    },
-    {
       "url": "https://rl.blitzw.in",
       "country": "DE",
       "version": "v0.36.0",
       "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
