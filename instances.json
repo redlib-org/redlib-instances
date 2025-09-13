@@ -1,9 +1,9 @@
 {
-  "updated": "2025-09-11",
+  "updated": "2025-09-13",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -13,20 +13,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -45,9 +35,15 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
+      "url": "https://redlib.frontendfriendly.xyz",
+      "country": "XX",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://rl.blitzw.in",
