@@ -1,18 +1,6 @@
 {
-  "updated": "2025-09-25",
+  "updated": "2025-09-27",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -25,10 +13,53 @@
       "cloudflare": true
     },
     {
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://redlib.frontendfriendly.xyz",
+      "country": "XX",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://reddit.adminforge.de",
+      "country": "false",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
+    },
+    {
       "url": "https://rl.blitzw.in",
       "country": "DE",
       "version": "v0.36.0",
       "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
