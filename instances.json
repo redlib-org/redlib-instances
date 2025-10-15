@@ -1,9 +1,9 @@
 {
-  "updated": "2025-10-13",
+  "updated": "2025-10-15",
   "instances": [
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://redlib.catsarch.com",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
@@ -13,18 +13,8 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.nohost.network",
       "country": "MX",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
       "version": "v0.36.0"
     },
     {
@@ -39,11 +29,6 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.frontendfriendly.xyz",
       "country": "XX",
       "version": "v0.36.0"
@@ -54,10 +39,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
       "version": "v0.36.0",
-      "description": "🩷"
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
