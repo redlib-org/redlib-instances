@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23",
+  "updated": "2025-10-25",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -44,20 +44,15 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.frontendfriendly.xyz",
-      "country": "XX",
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://lr.ptr.moe",
@@ -70,11 +65,6 @@
       "country": "SI",
       "version": "v0.36.0",
       "description": "orangelib"
-    },
-    {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
