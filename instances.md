@@ -2,9 +2,10 @@
 |-|-|-|-|-|-|
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
-|https://redlib.ducks.party|WWW|v0.36.0|🇳🇱 NL|||
-|https://redlib.frontendfriendly.xyz|WWW|v0.36.0|🇽🇽 XX|||
+|https://redlib.nadeko.net|WWW|v0.36.0|🇨🇱 CL||I don't like reddit.|
+|https://redlib.4o1x5.dev|WWW|v0.36.0|🇭🇺 HU|||
 |https://redlib.reallyaweso.me|WWW|v0.36.0|🇩🇪 DE||A reallyaweso.me redlib instance!|
+|https://reddit.adminforge.de|WWW|v0.36.0|🇫🇦 false|||
 |https://reddit.rtrace.io|WWW|v0.36.0|🇦🇹 AT||Caution: +10% increased chance to contract Ligma|
 |https://lr.ptr.moe|WWW|v0.36.0|🇩🇪 DE|✅||
 |https://redlib.orangenet.cc|WWW|v0.36.0|🇸🇮 SI||orangelib|
