@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-13",
+  "updated": "2025-11-15",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -13,15 +13,14 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
       "version": "v0.36.0"
     },
     {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nadeko.net",
@@ -46,10 +45,9 @@
       "description": "A reallyaweso.me redlib instance!"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
-      "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "url": "https://reddit.adminforge.de",
+      "country": "false",
+      "version": "v0.36.0"
     },
     {
       "url": "https://lr.ptr.moe",
