@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-17",
+  "updated": "2025-11-19",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -13,10 +13,20 @@
       "cloudflare": true
     },
     {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nadeko.net",
@@ -33,12 +43,6 @@
       "url": "https://redlib.frontendfriendly.xyz",
       "country": "XX",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://reddit.adminforge.de",
