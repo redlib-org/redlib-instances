@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-19",
+  "updated": "2025-11-21",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -11,11 +11,6 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -35,25 +30,27 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.frontendfriendly.xyz",
       "country": "XX",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://redlib.thebunny.zone",
       "country": "HR",
       "version": "v0.36.0",
       "description": "🩷"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
@@ -66,11 +63,6 @@
       "country": "SI",
       "version": "v0.36.0",
       "description": "orangelib"
-    },
-    {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
