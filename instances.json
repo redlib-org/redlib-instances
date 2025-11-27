@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-25",
+  "updated": "2025-11-27",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -13,9 +13,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
-      "version": "v0.36.0"
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
       "url": "https://red.artemislena.eu",
@@ -54,6 +55,12 @@
       "url": "https://reddit.adminforge.de",
       "country": "false",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://reddit.rtrace.io",
