@@ -1,15 +1,16 @@
 {
-  "updated": "2025-12-11",
+  "updated": "2025-12-13",
   "instances": [
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.cow.rip",
+      "country": "IN",
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
       "url": "https://lr.ptr.moe",
