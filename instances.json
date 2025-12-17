@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-15",
+  "updated": "2025-12-17",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -12,21 +12,50 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
+    },
+    {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
     },
     {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
     },
     {
       "url": "https://lr.ptr.moe",
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.36.0",
+      "description": "orangelib"
+    },
+    {
+      "url": "https://redlib.privadency.com",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
