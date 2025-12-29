@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27",
+  "updated": "2025-12-29",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -18,9 +18,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.cow.rip",
