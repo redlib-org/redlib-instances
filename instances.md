@@ -3,7 +3,10 @@
 |https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
-|https://redlib.ducks.party|WWW|v0.36.0|🇳🇱 NL|||
+|https://redlib.r4fo.com|WWW|v0.36.0|🇩🇪 DE|✅||
+|https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
+|https://redlib.cow.rip|WWW|v0.36.0|🇮🇳 IN|✅||
+|https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||
 |https://redlib.4o1x5.dev|WWW|v0.36.0|🇭🇺 HU|||
 |https://redlib.orangenet.cc|WWW|v0.36.0|🇸🇮 SI||orangelib|
 |https://redlib.privadency.com|WWW|v0.36.0|🇩🇪 DE|||
