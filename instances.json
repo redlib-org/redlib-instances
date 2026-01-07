@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05",
+  "updated": "2026-01-07",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -24,21 +24,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
-    },
-    {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
@@ -50,11 +39,6 @@
       "country": "SI",
       "version": "v0.36.0",
       "description": "orangelib"
-    },
-    {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
