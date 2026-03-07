@@ -38,6 +38,12 @@
       "country": "DE",
       "version": "v0.35.1",
       "description": "Onion of red.artemislena.eu"
+    },
+    {
+      "url": "https://noreddit.org/",
+      "country": "BG",
+      "version": "v0.36.0"
+      "cloudflare": true
     }
   ]
 }
