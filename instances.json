@@ -1,17 +1,21 @@
 {
-  "updated": "2026-03-05",
+  "updated": "2026-03-07",
   "instances": [
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.perennialte.ch",
+      "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
     },
     {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -19,8 +23,14 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
+      "version": "v0.36.0",
+      "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.36.0"
     },
     {
