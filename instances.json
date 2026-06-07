@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05",
+  "updated": "2026-06-07",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -19,15 +19,16 @@
       "cloudflare": true
     },
     {
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
+    },
+    {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nadeko.net",
