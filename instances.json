@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-13",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -40,12 +40,6 @@
       "country": "CL",
       "version": "v0.36.0",
       "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.orangenet.cc",
-      "country": "SI",
-      "version": "v0.36.0",
-      "description": "orangelib"
     },
     {
       "url": "https://redlib.privadency.com",
