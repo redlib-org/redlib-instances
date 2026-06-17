@@ -13,10 +13,11 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
+      "url": "https://redlib.proofline.live",
+      "country": "AU",
       "version": "v0.36.0",
-      "cloudflare": true
+      "cloudflare": true,
+      "description": "Proofline Community Services - best-effort instance hosted on dedicated hardware in Victoria Australia - status: https://status.proofline.live"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -36,21 +37,9 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.orangenet.cc",
-      "country": "SI",
-      "version": "v0.36.0",
-      "description": "orangelib"
-    },
-    {
       "url": "https://redlib.privadency.com",
       "country": "DE",
       "version": "v0.36.0"
-    },
-    {
-      "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.35.1",
-      "description": "Onion of red.artemislena.eu"
     }
   ]
 }
