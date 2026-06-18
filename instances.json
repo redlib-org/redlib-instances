@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17",
+  "updated": "2026-06-18",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -17,7 +17,7 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true,
-      "description": "Proofline Community Services - best-effort instance hosted on dedicated hardware in Victoria Australia - status: https://status.proofline.live"
+      "description": "Proofline Community Services best-effort instance; status: https://status.proofline.live"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -40,6 +40,12 @@
       "url": "https://redlib.privadency.com",
       "country": "DE",
       "version": "v0.36.0"
+    },
+    {
+      "onion": "http://2l4dpw6we2w3dhqwuecdgj3rxn2cyn7vuwjuyi323fugbp5hafvz2xid.onion",
+      "country": "AU",
+      "version": "v0.36.0",
+      "description": "Onion of redlib.proofline.live; avoids clearnet/Cloudflare delivery. Best-effort, not an anonymity guarantee."
     }
   ]
 }
