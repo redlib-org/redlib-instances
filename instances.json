@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09",
+  "updated": "2026-07-11",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -23,6 +23,11 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nadeko.net",
