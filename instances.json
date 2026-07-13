@@ -19,6 +19,13 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.oceanthunder.dev",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "Lemmy is superior"
+    },
+    {
       "url": "https://redlib.ducks.party",
       "country": "NL",
       "version": "v0.36.0"
