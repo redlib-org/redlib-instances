@@ -3,8 +3,8 @@
 |https://safereddit.com|WWW|v0.36.0|🇺🇸 US||SFW only|
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.r4fo.com|WWW|v0.36.0|🇩🇪 DE|✅||
-|https://redlib.ducks.party|WWW|v0.36.0|🇳🇱 NL|||
 |https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
+|https://redlib.cow.rip|WWW|v0.36.0|🇮🇳 IN|✅||
 |https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||
 |https://redlib.nadeko.net|WWW|v0.36.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.privadency.com|WWW|v0.36.0|🇩🇪 DE|||
