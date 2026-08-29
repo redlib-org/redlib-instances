@@ -2,6 +2,7 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.36.0|🇺🇸 US||SFW only|
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
+|https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
 |https://redlib.cow.rip|WWW|v0.36.0|🇮🇳 IN|✅||
 |https://redlib.nadeko.net|WWW|v0.36.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.privadency.com|WWW|v0.36.0|🇩🇪 DE|||
