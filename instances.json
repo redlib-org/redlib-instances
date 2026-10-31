@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "instances": [
+    {
+      "url": "https://redlib.cow.rip",
+      "country": "IN",
+      "version": "v0.40.0",
+      "cloudflare": true
+    },
     {
       "url": "https://redlib.privadency.com",
       "country": "DE",
