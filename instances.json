@@ -1,16 +1,11 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "instances": [
     {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.40.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.40.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
