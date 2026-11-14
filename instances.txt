@@ -73,3 +73,4 @@ http://r.zx56doutynmbgezxtpccduajwcblzx7fgio2yuy57a3jingco2c6fvqd.onion,DE,false
 https://redlib.astrial.org,SG,false,""
 https://redlib.einfachzocken.eu,DE,false,""
 http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion,CL,false,"Onion of redlib.nadeko.net"
+https://redlib.tiekoetter.com,DE,false,""
