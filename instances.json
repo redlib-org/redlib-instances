@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "instances": [
     {
       "url": "https://redlib.freedit.eu",
@@ -16,6 +16,28 @@
       "url": "https://redlib.privadency.com",
       "country": "DE",
       "version": "v0.40.0"
+    },
+    {
+      "url": "https://redlib.tiekoetter.com",
+      "country": "DE",
+      "version": "v0.40.0"
+    },
+    {
+      "url": "https://redlib.utilibre.org",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true,
+      "description": "Privacy-focused public instance protected by Anubis"
+    },
+    {
+      "url": "https://reddit.jeremyh.xyz",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://redlib.zanity.net",
+      "country": "US",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
