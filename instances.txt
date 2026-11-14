@@ -67,3 +67,4 @@ http://redlib.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion,XX,
 http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p,US,false,"I2P of redlib.catsarch.com"
 https://rl.zorby.top,DE,false,""
 https://redlib.mint.lgbt,CL,false,""
+https://rl.citw.lgbt,DE,false,""
