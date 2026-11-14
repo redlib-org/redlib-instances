@@ -83,3 +83,4 @@ http://redlib.kuuro5abqix6tfku77wj32srkicgqh3f7ro77ctpda7ub7a7mlv4jsid.onion,US,
 https://redlib.hbubli.cc,DE,false,"redlib instance by hbubli.cc"
 https://redlib.linuxenby.is,FI,false,""
 http://redlib.s3agyzjznitshmuousvbxg7246hokooypkmncycbfroih542egnwkhad.onion,FI,false,"Onion of redlib.linuxenby.is"
+https://redlib.nornic.de,DE,false,""
