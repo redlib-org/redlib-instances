@@ -336,8 +336,10 @@ get ()
     *) return 101 ;;
     esac
 
-    # Extract the zone.
-    zone="$(<<<"${url}" sed -nE 's|^.+://.+\.([^\./]+)/?.*|\1|p')"
+    # Extract the zone from the host, so that a dot in the path isn't taken
+    # for one.
+    zone="${url_no_scheme%%/*}"
+    zone="${zone##*.}"
 
     # Special handling for Onion and I2P sites.
     #  - Onion/I2P sites can be either HTTPS or HTTP. But we want to enforce
@@ -475,10 +477,24 @@ create_instance_entry ()
 
     # Scrape the version from the site. Only the first marker counts: a page
     # may carry several, and more than one line would break the JSON.
-    #
-    # Future versions of Libreddit may advertise the version in a <meta> tag in
-    # <head>, but it doesn't right now.
     version="$(<<<"${res}" sed -nE 's/.*\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p' | head -n 1)"
+
+    # Newer versions of Redlib have no marker on the page. They report their
+    # version at /info.json: a release as "2026.1102.1", a build between
+    # releases as "dev-<commit>".
+    if [[ -z "${version}" ]]
+    then
+        version="$(get "${get_opts[@]}" "${url%/}/info.json" | jq -er '.crate_version | strings' 2>/dev/null)"
+
+        if [[ "${version}" =~ ^([0-9]+\.){2}[0-9]+$ ]]
+        then
+            version="v${version}"
+        elif [[ ! "${version}" =~ ^dev-[0-9a-f]{7,40}$ ]]
+        then
+            version=
+        fi
+    fi
+
     if [[ -z "${version}" ]]
     then
         return 4
