@@ -421,6 +421,7 @@ create_instance_entry ()
 {
     local cloudflare=n
     local refused=n
+    local reddit=
     local res=
     local version=
     local json=
@@ -514,6 +515,16 @@ create_instance_entry ()
         return 4
     fi
 
+    # Redlib tells at /healthz/reddit.json whether Reddit serves it posts at
+    # the moment, from the last pages its visitors opened: "ok", "scraped"
+    # (only through its fallback) or "blocked". Versions without it answer
+    # with an error or a page, and nothing is recorded.
+    reddit="$(get "${get_opts[@]}" "${url%/}/healthz/reddit.json" | jq -er '.message | strings' 2>/dev/null)"
+    case "${reddit}" in
+    ok|scraped|blocked) ;;
+    *) reddit= ;;
+    esac
+
     # Find out if this is an onion/i2p website.
     # Yeah, this is a little lazy and we could do this a bit better.
     for zone in onion i2p
@@ -531,6 +542,12 @@ create_instance_entry ()
     json+="$(printf '"country":"%s"' "${country}")"
     json+=","
     json+="$(printf '"version":"%s"' "${version}")"
+
+    if [[ -n "${reddit}" ]]
+    then
+        json+=","
+        json+="$(printf '"reddit":"%s"' "${reddit}")"
+    fi
 
     if [[ "${cloudflare}" == "y" ]]
     then

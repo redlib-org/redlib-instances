@@ -26,6 +26,11 @@
                         "pattern": "^(v([0-9]+\\.){2}[0-9]+|dev-[0-9a-f]{7,40})$",
                         "$comment": "Version of Libreddit running on this instance."
                     },
+                    "reddit": {
+                        "type": "string",
+                        "enum": ["ok", "scraped", "blocked"],
+                        "$comment": "Whether Reddit served the instance posts when it was checked, as the instance reports at /healthz/reddit.json: ok, scraped (only through its fallback) or blocked. Absent if the instance doesn't report it."
+                    },
                     "cloudflare": {
                         "type": "boolean",
                         "$comment": "Specifies whether or not the instance sits behind Cloudflare. Cloudflare may monitor traffic to and from this instance."

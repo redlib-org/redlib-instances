@@ -147,12 +147,13 @@ Each field described:
 
 ### Processing the CSV
 
-The script will process the CSV and for each row connect to the URL and get the version string of the running instance. For each row, if the connection is successful and the script can determine the version, it will yield a JSON object (an "entry") of the form shown below. The version is read from the page's `id="version"` marker (the first one, if there are several). Versions of Redlib without the marker are asked for `/info.json` instead: a release like `2026.1102.1` is listed as `v2026.1102.1`, a build between releases as `dev-<commit>`.
+The script will process the CSV and for each row connect to the URL and get the version string of the running instance. For each row, if the connection is successful and the script can determine the version, it will yield a JSON object (an "entry") of the form shown below. The version is read from the page's `id="version"` marker (the first one, if there are several). Versions of Redlib without the marker are asked for `/info.json` instead: a release like `2026.1102.1` is listed as `v2026.1102.1`, a build between releases as `dev-<commit>`. If the instance has `/healthz/reddit.json`, the entry also says whether Reddit served it posts at that moment: `ok`, `scraped` (only through its fallback) or `blocked`.
 
 ```json
 {
     "url": "<url>",
     "version": "<version>",
+    "reddit": "<ok, scraped or blocked, if the instance reports it; null otherwise>",
     "cloudflare": <true if cloudflare is enabled; null otherwise>,
     "description": "<description if non-empty; null otherwise>"
 }
