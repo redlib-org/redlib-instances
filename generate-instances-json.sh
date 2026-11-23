@@ -851,6 +851,14 @@ main ()
         instance_entry="$(IFS=$'\n' create_instance_entry "${get_opts[@]}" "${values[@]}")"
         rc=$?
 
+        # The description goes into the entry as it is written in the CSV. An
+        # entry that isn't valid JSON would spoil the whole list, so it is
+        # left out like an instance that could not be reached.
+        if [[ ${rc} -eq 0 ]] && ! jq -e . <<<"${instance_entry}" >/dev/null 2>&1
+        then
+            rc=5
+        fi
+
         if [[ ${rc} -eq 0 ]]
         then
             IFS=$'\n' instance_entries+=("${instance_entry}")
@@ -878,17 +886,22 @@ main ()
     # Assemble everything into JSON.
     # TODO: see if this can be done in one jq call, without having
     # to pass the list to jq --slurp and then everything to jq.
-    printf '{"updated":"%s","instances":%s}' "${TODAY}" "$(IFS=$'\n'
+    local output=
+    output="$(printf '{"updated":"%s","instances":%s}' "${TODAY}" "$(IFS=$'\n'
         for instance in "${instance_entries[@]}" "${imported_nonwww[@]}"
         do
             echo "${instance}"
         done | jq -Mcers .
-    )" | jq -Mer . >"${output_file}"
+    )" | jq -Mer .)"
     rc=$?
 
-    if [[ ${rc} -ne 0 ]]
+    # Only a list that could be assembled is written, so a failed run leaves
+    # the output file as it was. It is often the file given to -I as well.
+    if [[ ${rc} -eq 0 ]]
     then
-        echo >&2 "There was a problem processing the JSON. The output file may be corrupted."
+        echo "${output}" >"${output_file}"
+    else
+        echo >&2 "There was a problem processing the JSON. The output file was not written."
         json_corrupted=y
     fi
 
