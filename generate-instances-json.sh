@@ -473,11 +473,12 @@ create_instance_entry ()
         return 3
     fi
 
-    # Scrape the version from the site.
+    # Scrape the version from the site. Only the first marker counts: a page
+    # may carry several, and more than one line would break the JSON.
     #
     # Future versions of Libreddit may advertise the version in a <meta> tag in
     # <head>, but it doesn't right now.
-    version="$(<<<"${res}" sed -nE 's/.*\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p')"
+    version="$(<<<"${res}" sed -nE 's/.*\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p' | head -n 1)"
     if [[ -z "${version}" ]]
     then
         return 4
