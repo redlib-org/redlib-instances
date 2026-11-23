@@ -420,6 +420,7 @@ get ()
 create_instance_entry ()
 {
     local cloudflare=n
+    local refused=n
     local res=
     local version=
     local json=
@@ -467,10 +468,18 @@ create_instance_entry ()
             return 100
         fi
 
-        return 2
-    fi
+        # 22 is curl's code for an HTTP error: the server answered, but
+        # refused the page. An instance that only lets browsers onto its pages
+        # can still answer /info.json, so that is asked below. Any other
+        # failure means the instance could not be reached at all.
+        if [[ ${rc} -ne 22 ]]
+        then
+            return 2
+        fi
 
-    if [[ -z "${res}" ]]
+        refused=y
+        res=
+    elif [[ -z "${res}" ]]
     then
         return 3
     fi
@@ -497,6 +506,11 @@ create_instance_entry ()
 
     if [[ -z "${version}" ]]
     then
+        if [[ "${refused}" == "y" ]]
+        then
+            return 2
+        fi
+
         return 4
     fi
 
