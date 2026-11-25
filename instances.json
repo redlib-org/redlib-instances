@@ -1,21 +1,11 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-25",
   "instances": [
     {
-      "url": "https://redlib.catsarch.com",
+      "url": "https://safereddit.com",
       "country": "US",
-      "version": "v0.40.0"
-    },
-    {
-      "url": "https://redlib.freedit.eu",
-      "country": "US",
-      "version": "v0.40.0"
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "version": "v0.69.0",
+      "description": "SFW only"
     },
     {
       "url": "https://redlib.cow.rip",
@@ -30,9 +20,10 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.privadency.com",
+      "url": "https://redlib.reallyaweso.me",
       "country": "DE",
-      "version": "v0.40.0"
+      "version": "v0.69.0",
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://redlib.thepixora.com",
@@ -52,11 +43,6 @@
       "version": "v0.36.0",
       "cloudflare": true,
       "description": "Privacy-focused public instance protected by Anubis"
-    },
-    {
-      "url": "https://reddit.jeremyh.xyz",
-      "country": "US",
-      "version": "v0.31.0"
     },
     {
       "url": "https://redlib.zanity.net",
