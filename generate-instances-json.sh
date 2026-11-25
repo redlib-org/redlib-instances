@@ -336,8 +336,10 @@ get ()
     *) return 101 ;;
     esac
 
-    # Extract the zone.
-    zone="$(<<<"${url}" sed -nE 's|^.+://.+\.([^\./]+)/?.*|\1|p')"
+    # Extract the zone from the host, so that a dot in the path isn't taken
+    # for one.
+    zone="${url_no_scheme%%/*}"
+    zone="${zone##*.}"
 
     # Special handling for Onion and I2P sites.
     #  - Onion/I2P sites can be either HTTPS or HTTP. But we want to enforce
@@ -418,6 +420,8 @@ get ()
 create_instance_entry ()
 {
     local cloudflare=n
+    local refused=n
+    local reddit=
     local res=
     local version=
     local json=
@@ -465,23 +469,61 @@ create_instance_entry ()
             return 100
         fi
 
-        return 2
-    fi
+        # 22 is curl's code for an HTTP error: the server answered, but
+        # refused the page. An instance that only lets browsers onto its pages
+        # can still answer /info.json, so that is asked below. Any other
+        # failure means the instance could not be reached at all.
+        if [[ ${rc} -ne 22 ]]
+        then
+            return 2
+        fi
 
-    if [[ -z "${res}" ]]
+        refused=y
+        res=
+    elif [[ -z "${res}" ]]
     then
         return 3
     fi
 
-    # Scrape the version from the site.
-    #
-    # Future versions of Libreddit may advertise the version in a <meta> tag in
-    # <head>, but it doesn't right now.
-    version="$(<<<"${res}" sed -nE 's/.*\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p')"
+    # Scrape the version from the site. Only the first marker counts: a page
+    # may carry several, and more than one line would break the JSON.
+    version="$(<<<"${res}" sed -nE 's/.*\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p' | head -n 1)"
+
+    # Newer versions of Redlib have no marker on the page. They report their
+    # version at /info.json: a release as "2026.1102.1", a build between
+    # releases as "dev-<commit>".
     if [[ -z "${version}" ]]
     then
+        version="$(get "${get_opts[@]}" "${url%/}/info.json" | jq -er '.crate_version | strings' 2>/dev/null)"
+
+        if [[ "${version}" =~ ^([0-9]+\.){2}[0-9]+$ ]]
+        then
+            version="v${version}"
+        elif [[ ! "${version}" =~ ^dev-[0-9a-f]{7,40}$ ]]
+        then
+            version=
+        fi
+    fi
+
+    if [[ -z "${version}" ]]
+    then
+        if [[ "${refused}" == "y" ]]
+        then
+            return 2
+        fi
+
         return 4
     fi
+
+    # Redlib tells at /healthz/reddit.json whether Reddit serves it posts at
+    # the moment, from the last pages its visitors opened: "ok", "scraped"
+    # (only through its fallback) or "blocked". Versions without it answer
+    # with an error or a page, and nothing is recorded.
+    reddit="$(get "${get_opts[@]}" "${url%/}/healthz/reddit.json" | jq -er '.message | strings' 2>/dev/null)"
+    case "${reddit}" in
+    ok|scraped|blocked) ;;
+    *) reddit= ;;
+    esac
 
     # Find out if this is an onion/i2p website.
     # Yeah, this is a little lazy and we could do this a bit better.
@@ -500,6 +542,12 @@ create_instance_entry ()
     json+="$(printf '"country":"%s"' "${country}")"
     json+=","
     json+="$(printf '"version":"%s"' "${version}")"
+
+    if [[ -n "${reddit}" ]]
+    then
+        json+=","
+        json+="$(printf '"reddit":"%s"' "${reddit}")"
+    fi
 
     if [[ "${cloudflare}" == "y" ]]
     then
@@ -820,6 +868,14 @@ main ()
         instance_entry="$(IFS=$'\n' create_instance_entry "${get_opts[@]}" "${values[@]}")"
         rc=$?
 
+        # The description goes into the entry as it is written in the CSV. An
+        # entry that isn't valid JSON would spoil the whole list, so it is
+        # left out like an instance that could not be reached.
+        if [[ ${rc} -eq 0 ]] && ! jq -e . <<<"${instance_entry}" >/dev/null 2>&1
+        then
+            rc=5
+        fi
+
         if [[ ${rc} -eq 0 ]]
         then
             IFS=$'\n' instance_entries+=("${instance_entry}")
@@ -847,17 +903,22 @@ main ()
     # Assemble everything into JSON.
     # TODO: see if this can be done in one jq call, without having
     # to pass the list to jq --slurp and then everything to jq.
-    printf '{"updated":"%s","instances":%s}' "${TODAY}" "$(IFS=$'\n'
+    local output=
+    output="$(printf '{"updated":"%s","instances":%s}' "${TODAY}" "$(IFS=$'\n'
         for instance in "${instance_entries[@]}" "${imported_nonwww[@]}"
         do
             echo "${instance}"
         done | jq -Mcers .
-    )" | jq -Mer . >"${output_file}"
+    )" | jq -Mer .)"
     rc=$?
 
-    if [[ ${rc} -ne 0 ]]
+    # Only a list that could be assembled is written, so a failed run leaves
+    # the output file as it was. It is often the file given to -I as well.
+    if [[ ${rc} -eq 0 ]]
     then
-        echo >&2 "There was a problem processing the JSON. The output file may be corrupted."
+        echo "${output}" >"${output_file}"
+    else
+        echo >&2 "There was a problem processing the JSON. The output file was not written."
         json_corrupted=y
     fi
 

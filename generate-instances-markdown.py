@@ -97,7 +97,7 @@ WARNING: This script will overwrite the output file if it exists.
         sys.stderr.write("\t" + e.__str__() + "\n")
         return 1
 
-    table_preamble = "|URL|Network|Version|Location|Behind Cloudflare?|Comment|\n|-|-|-|-|-|-|\n"
+    table_preamble = "|URL|Network|Version|Reddit|Location|Behind Cloudflare?|Comment|\n|-|-|-|-|-|-|-|\n"
     table_rows = []
     for instance in instances["instances"]:
         url = ""
@@ -128,6 +128,10 @@ WARNING: This script will overwrite the output file if it exists.
         else:
             version = instance["version"]
 
+        # What the instance reported about Reddit when it was checked, if it
+        # reports that at all.
+        reddit = {"ok": "\u2705", "scraped": "\u26a0\ufe0f scraped", "blocked": "\u274c blocked"}.get(instance.get("reddit"), "")
+
         if "country" in instance:
             country = instance["country"]
 
@@ -144,10 +148,11 @@ WARNING: This script will overwrite the output file if it exists.
         except Exception:
             location = country
 
-        table_rows.append("|{0}|{1}|{2}|{3}|{4}|{5}|\n".format(
+        table_rows.append("|{0}|{1}|{2}|{3}|{4}|{5}|{6}|\n".format(
             url,
             network,
             version,
+            reddit,
             location,
             "\u2705" if cloudflare else "",
             description
